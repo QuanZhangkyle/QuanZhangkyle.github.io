@@ -13,10 +13,6 @@ pagetitle: "Teaching — Quan (Kyle) Zhang"
 ::: {.pub}
 **Teaching Assistant** — Principles of Microeconomics & Macroeconomics. University of Hawaiʻi at Mānoa. 2023–2024.
 :::
-
-::: {.pub}
-**Teaching Assistant** — Operations Research / Decision Analysis (Arena Simulation). Industrial & Systems Engineering, Northern Illinois University. 2010–2012.
-:::
 :::
 
 ## Mentoring
