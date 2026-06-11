@@ -85,11 +85,11 @@ Caregiving as Health Capital Depreciation: Time Allocation Evidence from IPUMS A
 
 ::: {.pub-list}
 ::: {.pub}
-Health Shocks, Frailty Dynamics, and Labor Supply in China's Aging Population: Evidence from CHARLS 2011–2018. *(Submitted to the NBER Summer Institute 2026.)*
+Chronic versus Acute Health Shocks and the Margins of Labor Supply: Evidence from Frailty Dynamics in an Aging Population. *Accepted at the Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 2026.*
 :::
 
 ::: {.pub}
-Consumption Smoothing and Falls as Health Shocks: Evidence from CHARLS and HRS.
+Falls, Missing Markets, and Labor Supply: Evidence from China.
 :::
 
 ::: {.pub}

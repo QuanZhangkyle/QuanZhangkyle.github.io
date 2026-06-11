@@ -42,11 +42,11 @@ populations, using panel methods and causal-inference designs.
 
 ::: {.pub-list}
 ::: {.pub}
-**Chapter 1.** Health Shocks, Frailty Dynamics, and Labor Supply in China's Aging Population: Evidence from CHARLS 2011–2018. *Accepted at the Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 2026.*
+**Chapter 1.** Chronic versus Acute Health Shocks and the Margins of Labor Supply: Evidence from Frailty Dynamics in an Aging Population. *Accepted at the Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 2026.*
 :::
 
 ::: {.pub}
-**Chapter 2.** Consumption Smoothing and Falls as Health Shocks: Evidence from CHARLS and HRS.
+**Chapter 2.** Falls, Missing Markets, and Labor Supply: Evidence from China.
 :::
 
 ::: {.pub}
