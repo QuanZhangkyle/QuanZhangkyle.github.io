@@ -98,6 +98,23 @@ main.content {
   color: $crimson !important;
 }
 
+// Brand-colored social icons (right side of navbar)
+.navbar .nav-link .bi-envelope        { color: #D93025; }  // email
+.navbar .nav-link .bi-mortarboard-fill{ color: #4285F4; }  // Google Scholar
+.navbar .nav-link .ai-orcid           { color: #A6CE39; }  // ORCID green
+.navbar .nav-link .bi-linkedin        { color: #0A66C2; }  // LinkedIn
+.navbar .nav-link .bi-github          { color: #181717; }  // GitHub
+
+.navbar .nav-link .bi,
+.navbar .nav-link .ai {
+  font-size: 1.05rem;
+  transition: opacity .15s ease;
+}
+.navbar .nav-link:hover .bi,
+.navbar .nav-link:hover .ai {
+  opacity: .6;
+}
+
 .navbar-toggler {
   border-color: $hairline;
 }
