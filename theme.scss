@@ -42,7 +42,7 @@ body {
 // Single centered column, generous whitespace
 // ————————————————————————————————————————
 #quarto-content > * {
-  max-width: 960px !important;
+  max-width: 1040px !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
@@ -52,7 +52,7 @@ body {
 }
 
 main.content {
-  max-width: 960px;
+  max-width: 1040px;
   margin: 0 auto;
   padding: 3.25rem 1.5rem 5rem;
 }
@@ -98,20 +98,21 @@ main.content {
   color: $crimson !important;
 }
 
-// Brand-colored social icons (right side of navbar)
+// Brand-colored social icons (right side of navbar). ORCID is an inline SVG
+// (carries its own green), so it isn't listed here.
 .navbar .nav-link .bi-envelope        { color: #D93025; }  // email
 .navbar .nav-link .bi-mortarboard-fill{ color: #4285F4; }  // Google Scholar
-.navbar .nav-link .ai-orcid           { color: #A6CE39; }  // ORCID green
 .navbar .nav-link .bi-linkedin        { color: #0A66C2; }  // LinkedIn
 .navbar .nav-link .bi-github          { color: #181717; }  // GitHub
 
+.navbar .nav-link .bi { font-size: 1.05rem; }
+
 .navbar .nav-link .bi,
-.navbar .nav-link .ai {
-  font-size: 1.05rem;
+.navbar .nav-link svg {
   transition: opacity .15s ease;
 }
 .navbar .nav-link:hover .bi,
-.navbar .nav-link:hover .ai {
+.navbar .nav-link:hover svg {
   opacity: .6;
 }
 
@@ -174,6 +175,15 @@ h1.site-name {
   color: $muted;
   line-height: 1.45;
   margin: 0 0 .55rem;
+}
+.site-affil a {
+  color: inherit !important;
+  text-decoration: none;
+}
+.site-affil a:hover {
+  color: $crimson !important;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .site-contact {

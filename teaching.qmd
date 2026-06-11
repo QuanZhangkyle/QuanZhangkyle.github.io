@@ -3,17 +3,11 @@ title: "Teaching"
 pagetitle: "Teaching — Quan (Kyle) Zhang"
 ---
 
-## Teaching
+## Courses
 
-::: {.pub-list}
-::: {.pub}
-**Instructor** — Introduction to Statistics. Department of Economics, University of Hawaiʻi at Mānoa. Summer 2025.
-:::
+**Instructor** — Introduction to Statistics · Department of Economics, UH Mānoa · Summer 2025
 
-::: {.pub}
-**Teaching Assistant** — Principles of Microeconomics & Macroeconomics. University of Hawaiʻi at Mānoa. 2023–2024.
-:::
-:::
+**Teaching Assistant** — Principles of Microeconomics & Macroeconomics · UH Mānoa · 2023–2024
 
 ## Mentoring
 

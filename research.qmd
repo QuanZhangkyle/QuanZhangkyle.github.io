@@ -20,15 +20,19 @@ regression discontinuity, and double/debiased machine learning.
 ## Research positions & projects
 
 ::: {.working-paper}
-**Graduate Research Assistant — UHERO**, University of Hawaiʻi at Mānoa (2024–present)
+**Researcher — UHERO**, University of Hawaiʻi at Mānoa (2024–present)
 
-- *Maui Wildfire Exposure Study (MauiWES)* — NIH- and state-funded longitudinal cohort (PI: Ruben Juarez).
+- *Maui Wildfire Exposure Study (MauiWES)* — NIH- and state-funded longitudinal cohort.
 - *Roots Reborn Program Evaluation* — post-wildfire economic-empowerment intervention (2025–2026).
 - *Minority-Owned Small Business Financing Study* — City & County of Honolulu, OER-funded (2024–2025).
 :::
 
 ::: {.working-paper}
-**International Collaborator & Peer Reviewer — Global Burden of Disease Study 2023**, IHME, University of Washington (2024–present)
+**International collaborator — Global Burden of Disease Study 2023**, IHME, University of Washington (2024–present)
+:::
+
+::: {.working-paper}
+**Journal peer reviewer** — *Public Health in Practice* (Elsevier, 2025–present) and *Aging-US* (2026–present)
 :::
 
 ## Dissertation
@@ -38,7 +42,7 @@ populations, using panel methods and causal-inference designs.
 
 ::: {.pub-list}
 ::: {.pub}
-**Chapter 1.** Health Shocks, Frailty Dynamics, and Labor Supply in China's Aging Population: Evidence from CHARLS 2011–2018. *Submitted to the NBER Summer Institute 2026.*
+**Chapter 1.** Health Shocks, Frailty Dynamics, and Labor Supply in China's Aging Population: Evidence from CHARLS 2011–2018. *Accepted at the Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 2026.*
 :::
 
 ::: {.pub}
@@ -70,6 +74,6 @@ Balancing Innovation Incentives and Equitable Access for AI Health Technologies:
 :::
 
 ::: {.pub}
-Caregiving as Health Capital Depreciation: Time Allocation Evidence from IPUMS ATUS. *Under review; to be presented at GSA 2026.*
+Caregiving as Health Capital Depreciation: Time Allocation Evidence from IPUMS ATUS. *Under review.*
 :::
 :::

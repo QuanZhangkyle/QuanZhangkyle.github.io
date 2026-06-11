@@ -10,7 +10,7 @@ description: "Quan (Kyle) Zhang — health economist and data scientist at the U
 <div class="name-text">
 <h1 class="site-name">Quan (Kyle) Zhang</h1>
 <p class="site-role">Health Economist · Data Scientist</p>
-<p class="site-affil">University of Hawaiʻi at Mānoa<br>Economics · UHERO · John A. Burns School of Medicine</p>
+<p class="site-affil">University of Hawaiʻi at Mānoa<br><a href="https://www.economics.hawaii.edu/">Economics</a> · <a href="https://uhero.hawaii.edu/">UHERO</a> · <a href="https://jabsom.hawaii.edu/">John A. Burns School of Medicine</a></p>
 <p class="site-contact"><a href="mailto:quanz@hawaii.edu">quanz@hawaii.edu</a> <span class="dot">·</span> <a href="https://scholar.google.com/citations?user=lWeyFo4AAAAJ">Google Scholar</a> <span class="dot">·</span> <a href="https://orcid.org/0009-0009-2409-309X">ORCID</a> <span class="dot">·</span> <a href="https://github.com/QuanZhangkyle">GitHub</a> <span class="dot">·</span> <a href="https://www.linkedin.com/in/quanzhangkyle/">LinkedIn</a> <span class="dot">·</span> <a href="https://www.researchgate.net/profile/Quan-Zhang-96">ResearchGate</a></p>
 </div>
 :::
@@ -24,8 +24,8 @@ engineering to study population aging, frailty dynamics, health shocks and labor
 supply, disaster health economics, and health equity — working with longitudinal
 microdata such as CHARLS, HRS, and SHARE in R, Python, SQL, and Stata.
 
-As a Graduate Research Assistant at UHERO, I contribute to the NIH- and state-funded
-Maui Wildfire Exposure Study (MauiWES). I am also an invited collaborator and peer
+As a researcher at UHERO, I contribute to the NIH- and state-funded Maui Wildfire
+Exposure Study (MauiWES). I am also an invited collaborator and peer
 reviewer for the Global Burden of Disease Study 2023 at the Institute for Health
 Metrics and Evaluation (IHME), University of Washington.
 :::
@@ -33,11 +33,13 @@ Metrics and Evaluation (IHME), University of Washington.
 ## Methods & Tools
 
 ::: {.skills}
-**Machine learning & data science** — gradient boosting (XGBoost), random forests, LASSO / elastic net, causal forests and heterogeneous treatment effects, double/debiased machine learning, survival analysis, and multiple imputation.
+**Machine learning & data science** — gradient boosting (XGBoost), random forests, LASSO/elastic net, causal forests & heterogeneous treatment effects, double/debiased ML (DML), survival models, multiple imputation (MICE), etc.
 
-**Programming & software** — R, Python, SQL, and Stata; Git, LaTeX, and high-performance / cloud computing; reproducible data pipelines over large-scale microdata (CHARLS, HRS, SHARE, NHANES, IPUMS, GBD).
+**Causal inference & econometrics** — difference-in-differences (DiD, incl. staggered adoption), instrumental variables (IV/2SLS), event-study & panel methods, regression discontinuity (RDD), synthetic control, etc.
 
-**Causal inference & econometrics** — difference-in-differences (staggered adoption), instrumental variables, event-study and panel methods, and regression discontinuity.
+**Biostatistics & bioinformatics** — survival analysis (Cox PH, Kaplan–Meier, AFT), mixed-effects & longitudinal models, biomarker and genotype–phenotype analysis, frailty-index construction, IRT/CFA psychometrics, cost-effectiveness analysis (CEA/DCEA), meta-analysis, etc.
+
+**Programming & software** — R, Python, SQL, Stata; Git, Bash, LaTeX; high-performance computing (HPC); reproducible data pipelines over CHARLS, HRS, SHARE, NHANES, IPUMS, GBD, etc.
 :::
 
 ## Research Interests
@@ -69,7 +71,7 @@ Metrics and Evaluation (IHME), University of Washington.
 :::
 
 ::: {.news-item}
-[Nov 2026]{.news-date} Presenting at the **GSA 2026 Annual Scientific Meeting** (NDIRA Caregiving Symposium), National Harbor, MD.
+[Nov 2026]{.news-date} Paper accepted at the **Southern Economic Association (SEA) 96th Annual Meeting**, Houston, TX.
 :::
 :::
 
