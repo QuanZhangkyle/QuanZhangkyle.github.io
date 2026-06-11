@@ -284,6 +284,26 @@ main h3 {
   color: $navy;
 }
 
+// Experience entries
+.exp {
+  margin-bottom: 1.7rem;
+}
+.exp h3 {
+  margin-top: 0;
+  margin-bottom: .15rem;
+  font-size: 1.2rem;
+}
+.exp-meta {
+  display: block;
+  color: $muted;
+  font-size: .9rem;
+  letter-spacing: .01em;
+  margin-bottom: .45rem;
+}
+.exp p {
+  margin: 0;
+}
+
 // ————————————————————————————————————————
 // News
 // ————————————————————————————————————————

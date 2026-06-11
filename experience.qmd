@@ -1,0 +1,49 @@
+---
+title: "Experience"
+pagetitle: "Experience — Quan (Kyle) Zhang"
+---
+
+Before returning to academia, I spent several years in industry in program and
+product management and data-driven operations — cloud data-warehousing, supply
+chain, and analytics. That work grounds the engineering and data-science side of
+my current research.
+
+## Industry
+
+::: {.exp}
+### Program Manager — Microsoft
+[SQL Server Data Warehousing / Analytics Platform System (APS) · Redmond, WA · 2014–2015]{.exp-meta}
+Owned a \$4M delivery pipeline of cloud data-warehouse appliances to enterprise data
+centers nationwide and built the logistics and cost model for Parallel Data Warehouse
+infrastructure, coordinating across engineering, OEM, and customer teams.
+:::
+
+::: {.exp}
+### Project Management Specialist — Quanta Computer (Amazon AWS NPI)
+[Bellevue, WA · 2013–2014]{.exp-meta}
+Coordinated New Product Introduction releases for Amazon AWS cloud servers across a
+North America–Asia supply chain (contributing to 66% year-over-year sales growth);
+managed bill-of-materials and component provisioning.
+:::
+
+## Earlier roles
+
+::: {.exp}
+### Project Engineer (Co-op) — Caterpillar Inc.
+[Manufacturing Strategy · Aurora, IL · 2012]{.exp-meta}
+Built NPV-based analyses projecting ~\$1M/year in savings across warehouse-relocation
+scenarios; cut urgent-order tardiness by 60% using Six Sigma DMAIC.
+:::
+
+::: {.exp}
+### Research Assistant (Co-op) — Argonne National Laboratory
+[Transportation Research & Analysis Computing Center (TRACC) · Lemont, IL · 2011]{.exp-meta}
+Regression and simulation modeling of urban evacuation timing for Chicago, in
+collaboration with NASA; design of experiments and statistical modeling.
+:::
+
+## Certifications
+
+- Google Business Intelligence Professional
+- Google Data Analytics Professional
+- Six Sigma DMAIC Green Belt
