@@ -4,11 +4,13 @@ project:
   render:
     - "*.qmd"
     - "!design_demos/"
+  resources:
+    - CNAME
 
 website:
   title: "Quan Zhang"
   description: "Quan (Kyle) Zhang — health economist and PhD candidate at the University of Hawaiʻi at Mānoa. Causal inference, population aging, and health equity."
-  site-url: https://quanzhangkyle.github.io   # TODO: update to https://quanzhang.org once the domain is live
+  site-url: https://quanzhang.org
   favicon: assets/favicon.svg
   open-graph: true
   twitter-card: true
