@@ -10,26 +10,38 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=lWeyFo4AA
 ::: {.pub-list}
 ::: {.pub}
 Zhang, Q. (2026). Do Negative Social Ties Accelerate Aging in Adults, or Does Aging Erode Social Ties? *Proceedings of the National Academy of Sciences (PNAS)*, 123(20), e2608036123.
+
+[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1073/pnas.2608036123){.pub-link}
 :::
 
 ::: {.pub}
 Zhang, Q. (2026). Keep REMS focused on safety, not as a barrier to generics. *Health Affairs*.
+
+[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1377/hlthaff.2025.01565){.pub-link}
 :::
 
 ::: {.pub}
 Zhang, Q. (2026). Enhancing life-course analyses of financial disadvantage and depressive mood through longitudinal design and causal inference. *Journal of Epidemiology*.
+
+[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.2188/jea.JE20250542){.pub-link}
 :::
 
 ::: {.pub}
 Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limited areas. *JAMA*.
+
+[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1001/jama.2025.21041){.pub-link}
 :::
 
 ::: {.pub}
 Zhang, Q. (2025). On "The joint impact of greenspace and air pollution on mortality": Methodological proposals. *International Journal of Epidemiology*.
+
+[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1093/ije/dyaf224){.pub-link}
 :::
 
 ::: {.pub}
 Zhang, Q. (2025). Re: Khodakarami et al, "Exploring neighborhood opportunity as a factor in pediatric asthma visits to the emergency department": A causal roadmap for Child Opportunity Index 2.0. *Public Health Reports*.
+
+[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1177/00333549251403917){.pub-link}
 :::
 :::
 
@@ -57,7 +69,7 @@ Enrollment Dynamics and Health Equity Effects of California's Staggered Medi-Cal
 :::
 
 ::: {.pub}
-QALY Losses from Acute Health Shocks Across European Welfare Regimes: A Panel Event Study Using SHARE. *Under review, Journal of Population Economics.*
+Health Shocks and the Permanent Labor-Market Exit of Older Europeans. *Under review, Journal of Population Economics.*
 :::
 
 ::: {.pub}
@@ -82,5 +94,11 @@ Consumption Smoothing and Falls as Health Shocks: Evidence from CHARLS and HRS.
 
 ::: {.pub}
 Later, Longer, Fewer and the Quantity–Quality Trade-off: Evidence from CHARLS.
+:::
+
+::: {.pub}
+Subclinical Cardiometabolic–Inflammatory Burden and the Compression of Disability-Free Working Life in Older US Adults: A Health and Retirement Study Cohort Analysis.
+
+[<i class="bi bi-box-arrow-up-right"></i> SSRN](https://doi.org/10.2139/ssrn.6904567){.pub-link}
 :::
 :::

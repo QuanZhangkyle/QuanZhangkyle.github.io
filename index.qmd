@@ -16,19 +16,28 @@ description: "Quan (Kyle) Zhang — health economist and data scientist at the U
 :::
 
 ::: {.bio}
-I am a **health economist and data scientist** at the **University of Hawaiʻi at
-Mānoa**, with graduate training in **Economics** (Quantitative Economics &
-Econometrics) and a completed graduate concentration in **Quantitative Health
-Sciences** at the **John A. Burns School of Medicine**. I combine **causal
-inference and applied econometrics** with **machine learning, SQL, and large-scale
-data engineering** to study population aging, frailty dynamics, health shocks and
-labor supply, disaster health economics, and health equity — working with
-longitudinal microdata such as CHARLS, HRS, and SHARE in R, Python, SQL, and Stata.
+I am a health economist and data scientist at the University of Hawaiʻi at Mānoa,
+trained in both economics (Quantitative Economics & Econometrics) and quantitative
+health sciences at the John A. Burns School of Medicine. I combine causal inference
+and applied econometrics with machine learning, SQL, and large-scale data
+engineering to study population aging, frailty dynamics, health shocks and labor
+supply, disaster health economics, and health equity — working with longitudinal
+microdata such as CHARLS, HRS, and SHARE in R, Python, SQL, and Stata.
 
-As a Graduate Research Assistant at **UHERO**, I contribute to the NIH- and
-state-funded Maui Wildfire Exposure Study (MauiWES). I am also an invited
-collaborator and peer reviewer for the **Global Burden of Disease Study 2023** at
-the **Institute for Health Metrics and Evaluation (IHME), University of Washington**.
+As a Graduate Research Assistant at UHERO, I contribute to the NIH- and state-funded
+Maui Wildfire Exposure Study (MauiWES). I am also an invited collaborator and peer
+reviewer for the Global Burden of Disease Study 2023 at the Institute for Health
+Metrics and Evaluation (IHME), University of Washington.
+:::
+
+## Methods & Tools
+
+::: {.skills}
+**Machine learning & data science** — gradient boosting (XGBoost), random forests, LASSO / elastic net, causal forests and heterogeneous treatment effects, double/debiased machine learning, survival analysis, and multiple imputation.
+
+**Programming & software** — R, Python, SQL, and Stata; Git, LaTeX, and high-performance / cloud computing; reproducible data pipelines over large-scale microdata (CHARLS, HRS, SHARE, NHANES, IPUMS, GBD).
+
+**Causal inference & econometrics** — difference-in-differences (staggered adoption), instrumental variables, event-study and panel methods, and regression discontinuity.
 :::
 
 ## Research Interests
@@ -39,20 +48,10 @@ the **Institute for Health Metrics and Evaluation (IHME), University of Washingt
 - Disaster health economics and community resilience
 - Health equity and quantitative health sciences
 
-## Methods & Tools
-
-::: {.skills}
-**Causal inference & econometrics** — difference-in-differences (staggered adoption), instrumental variables, event-study and panel methods, regression discontinuity, and double/debiased machine learning.
-
-**Machine learning & statistics** — causal forests and heterogeneous treatment effects, gradient boosting (XGBoost), LASSO / elastic net, survival analysis, and multiple imputation.
-
-**Programming & data engineering** — R, Python, SQL, Stata, Git, and LaTeX; high-performance computing; and large-scale health and social microdata (CHARLS, HRS, SHARE, NHANES, IPUMS, GBD).
-:::
-
 ## Education
 
 - **PhD in Economics** (Quantitative Economics & Econometrics), University of Hawaiʻi at Mānoa, 2023–present
-- **Quantitative Health Sciences** — graduate concentration, John A. Burns School of Medicine, University of Hawaiʻi at Mānoa, 2024–2026
+- **Quantitative Health Sciences**, John A. Burns School of Medicine, University of Hawaiʻi at Mānoa, 2024–2026
 
 ## News
 
@@ -86,13 +85,13 @@ Zhang, Q. (2026). Do Negative Social Ties Accelerate Aging in Adults, or Does Ag
 ::: {.pub}
 Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limited areas. *JAMA*.
 
-[<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
+[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1001/jama.2025.21041){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
 :::
 
 ::: {.pub}
 Zhang, Q. (2026). Keep REMS focused on safety, not as a barrier to generics. *Health Affairs*.
 
-[<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
+[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1377/hlthaff.2025.01565){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
 :::
 :::
 
