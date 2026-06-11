@@ -29,6 +29,12 @@ website:
       - icon: envelope
         href: "mailto:quanz@hawaii.edu"
         aria-label: Email
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=lWeyFo4AAAAJ"
+        aria-label: Google Scholar
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/quanzhangkyle/"
+        aria-label: LinkedIn
       - icon: github
         href: "https://github.com/QuanZhangkyle"
         aria-label: GitHub

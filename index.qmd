@@ -11,15 +11,15 @@ description: "Quan (Kyle) Zhang — health economist and PhD candidate at the Un
 <h1 class="site-name">Quan (Kyle) Zhang</h1>
 <p class="site-role">Health Economist · PhD Candidate in Economics</p>
 <p class="site-affil">University of Hawaiʻi at Mānoa<br>Economics · UHERO · John A. Burns School of Medicine</p>
-<p class="site-contact"><a href="mailto:quanz@hawaii.edu">quanz@hawaii.edu</a> <span class="dot">·</span> <a href="https://orcid.org/0009-0009-2409-309X">ORCID</a> <span class="dot">·</span> <a href="https://github.com/QuanZhangkyle">GitHub</a></p>
+<p class="site-contact"><a href="mailto:quanz@hawaii.edu">quanz@hawaii.edu</a> <span class="dot">·</span> <a href="https://scholar.google.com/citations?user=lWeyFo4AAAAJ">Google Scholar</a> <span class="dot">·</span> <a href="https://orcid.org/0009-0009-2409-309X">ORCID</a> <span class="dot">·</span> <a href="https://github.com/QuanZhangkyle">GitHub</a> <span class="dot">·</span> <a href="https://www.linkedin.com/in/quanzhangkyle/">LinkedIn</a> <span class="dot">·</span> <a href="https://www.researchgate.net/profile/Quan-Zhang-96">ResearchGate</a></p>
 </div>
 :::
 
 ::: {.bio}
 I am a health economist and PhD candidate in Economics (Quantitative Economics &
-Econometrics) at the **University of Hawaiʻi at Mānoa**, advised by Sang-Hyop Lee,
-where I am concurrently completing an M.S. in Quantitative Health Sciences at the
-**John A. Burns School of Medicine**. My research applies causal inference and
+Econometrics) at the **University of Hawaiʻi at Mānoa**, where I am concurrently
+completing an M.S. in Quantitative Health Sciences at the **John A. Burns School
+of Medicine**. My research applies causal inference and
 applied econometrics to population aging, frailty dynamics, health shocks and labor
 supply, disaster health economics, and health equity — drawing on large-scale
 longitudinal microdata such as CHARLS, HRS, and SHARE.
@@ -37,6 +37,12 @@ the **Global Burden of Disease Study 2023** at IHME.
 - Population aging, frailty dynamics, and health and labor supply over the life course
 - Disaster health economics and community resilience
 - Health equity and quantitative health sciences
+
+## Education
+
+- **PhD in Economics** (Quantitative Economics & Econometrics), University of Hawaiʻi at Mānoa, 2023–present
+- **M.S. in Quantitative Health Sciences**, John A. Burns School of Medicine, University of Hawaiʻi at Mānoa, 2024–present
+- **M.S. in Industrial & Systems Engineering**, Northern Illinois University, 2010–2012
 
 ## News
 

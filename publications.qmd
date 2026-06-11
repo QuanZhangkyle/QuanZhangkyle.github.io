@@ -3,7 +3,7 @@ title: "Publications"
 pagetitle: "Publications — Quan (Kyle) Zhang"
 ---
 
-See also my [ORCID profile](https://orcid.org/0009-0009-2409-309X).
+See also my [Google Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ) and [ORCID](https://orcid.org/0009-0009-2409-309X) profiles.
 
 ## Peer-reviewed articles & commentaries
 
@@ -22,10 +22,6 @@ Zhang, Q. (2026). Enhancing life-course analyses of financial disadvantage and d
 
 ::: {.pub}
 Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limited areas. *JAMA*.
-:::
-
-::: {.pub}
-Zhang, Q. (2025). Operationalizing distributional cost-effectiveness in genomic medicine: A US-focused comment on Smith et al. *Value in Health*.
 :::
 
 ::: {.pub}
@@ -61,7 +57,7 @@ Enrollment Dynamics and Health Equity Effects of California's Staggered Medi-Cal
 :::
 
 ::: {.pub}
-QALY Losses from Acute Health Shocks Across European Welfare Regimes: A Panel Event Study Using SHARE. *Under review, Health Economics.*
+QALY Losses from Acute Health Shocks Across European Welfare Regimes: A Panel Event Study Using SHARE. *Under review, Journal of Population Economics.*
 :::
 
 ::: {.pub}
