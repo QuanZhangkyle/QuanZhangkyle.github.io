@@ -1,0 +1,301 @@
+/*-- scss:defaults --*/
+
+// =====================================================================
+//  Design B — 极简学术单栏 × Navy & Crimson
+//  bg #FFFFFF · ink #111827 · navy #1E3A5F · crimson #9B1C2E
+// =====================================================================
+
+$navy:     #1E3A5F;
+$crimson:  #9B1C2E;
+$ink:      #111827;
+$muted:    #6B7280;
+$hairline: #E5E7EB;
+
+$font-family-sans-serif: "Source Sans 3", -apple-system, "Segoe UI", system-ui, sans-serif;
+$headings-font-family:   "EB Garamond", Georgia, "Times New Roman", serif;
+$headings-font-weight:   700;
+
+$font-size-root: 19px;
+$line-height-base: 1.7;
+
+$body-bg:    #FFFFFF;
+$body-color: $ink;
+$link-color: $crimson;
+$primary:    $navy;
+$secondary:  $muted;
+
+$navbar-bg: #FFFFFF;
+$navbar-fg: $navy;
+
+$footer-bg: #FFFFFF;
+$footer-fg: $muted;
+
+/*-- scss:rules --*/
+
+// ————————————————————————————————————————
+// Single centered column, generous whitespace
+// ————————————————————————————————————————
+#quarto-content > * {
+  max-width: 720px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.page-columns {
+  display: block !important;
+}
+
+main.content {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 3.5rem 1.25rem 5rem;
+}
+
+// ————————————————————————————————————————
+// Navbar: minimal white, hairline bottom border
+// ————————————————————————————————————————
+.navbar {
+  background-color: #FFFFFF !important;
+  border-bottom: 1px solid $hairline;
+  box-shadow: none;
+  padding-top: .9rem;
+  padding-bottom: .9rem;
+}
+
+.navbar .navbar-brand {
+  font-family: $headings-font-family;
+  font-weight: 700;
+  font-size: 1.35rem;
+  color: $navy !important;
+  letter-spacing: .01em;
+}
+
+.navbar .navbar-brand:hover {
+  color: $crimson !important;
+}
+
+.navbar .nav-link {
+  font-family: $font-family-sans-serif;
+  font-size: .85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  color: $muted !important;
+  transition: color .15s ease;
+  padding-left: .9rem;
+  padding-right: .9rem;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.navbar .nav-item .nav-link.active {
+  color: $crimson !important;
+}
+
+.navbar-toggler {
+  border-color: $hairline;
+}
+
+// ————————————————————————————————————————
+// Name block (homepage): round photo + serif name
+// ————————————————————————————————————————
+.name-block {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin: 1.25rem 0 2.25rem;
+}
+
+.name-block .profile-photo,
+.name-block p img,
+.name-block img {
+  width: 120px;
+  height: 120px;
+  min-width: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid $hairline;
+  margin: 0;
+}
+
+.name-block p:has(img) {
+  margin: 0;
+  flex: 0 0 auto;
+}
+
+.name-text {
+  flex: 1 1 auto;
+}
+
+h1.site-name {
+  font-family: $headings-font-family;
+  font-weight: 700;
+  font-size: 2.6rem;
+  line-height: 1.15;
+  color: $navy;
+  margin: 0 0 .35rem;
+  border: none;
+  padding: 0;
+}
+
+.site-role {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: $ink;
+  letter-spacing: .02em;
+  margin: 0 0 .3rem;
+}
+
+.site-affil {
+  font-size: .95rem;
+  color: $muted;
+  line-height: 1.45;
+  margin: 0 0 .55rem;
+}
+
+.site-contact {
+  font-size: .9rem;
+  margin: 0;
+}
+
+.site-contact .dot {
+  color: $muted;
+  margin: 0 .35rem;
+}
+
+// ————————————————————————————————————————
+// Body copy & links
+// ————————————————————————————————————————
+.bio {
+  margin-bottom: 2.5rem;
+}
+
+main a:not(.nav-link):not(.navbar-brand):not(.btn) {
+  color: $crimson;
+  text-decoration: none;
+  transition: color .15s ease;
+}
+
+main a:not(.nav-link):not(.navbar-brand):not(.btn):hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
+// Page titles (inner pages) & section headings: serif navy
+main h1, .quarto-title h1.title {
+  font-family: $headings-font-family;
+  font-weight: 700;
+  color: $navy;
+}
+
+main h2 {
+  font-family: $headings-font-family;
+  font-weight: 700;
+  font-size: 1.65rem;
+  color: $navy;
+  margin-top: 3rem;
+  margin-bottom: 1.1rem;
+  padding-bottom: .45rem;
+  border-bottom: 1px solid $hairline;
+}
+
+main h3 {
+  font-family: $headings-font-family;
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: $navy;
+  margin-top: 1.8rem;
+}
+
+// ————————————————————————————————————————
+// Working papers: hairline-left callout
+// ————————————————————————————————————————
+.working-paper {
+  margin-top: 1.1rem;
+  padding-left: 1.1rem;
+  border-left: 3px solid $hairline;
+  color: $ink;
+}
+
+.working-paper p { margin: 0 0 .4rem; }
+
+// ————————————————————————————————————————
+// Publications: hanging indent, italic journals
+// ————————————————————————————————————————
+.pub-list .pub {
+  padding-left: 2.2rem;
+  text-indent: -2.2rem;
+  margin-bottom: 1rem;
+}
+
+.pub-list .pub p {
+  margin: 0;
+}
+
+// ————————————————————————————————————————
+// News
+// ————————————————————————————————————————
+.news-list .news-item {
+  display: flex;
+  gap: 1.25rem;
+  align-items: baseline;
+  margin-bottom: .55rem;
+}
+
+.news-list .news-item p {
+  margin: 0;
+  display: flex;
+  gap: 1.25rem;
+  align-items: baseline;
+}
+
+.news-date {
+  font-size: .82rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: $muted;
+  white-space: nowrap;
+  min-width: 5.2rem;
+}
+
+// ————————————————————————————————————————
+// CV page button
+// ————————————————————————————————————————
+.btn-primary {
+  background-color: $navy;
+  border-color: $navy;
+  &:hover { background-color: darken($navy, 6%); border-color: darken($navy, 6%); }
+}
+
+// ————————————————————————————————————————
+// Footer
+// ————————————————————————————————————————
+.nav-footer {
+  border-top: 1px solid $hairline;
+  font-size: .85rem;
+  color: $muted;
+  padding-top: 1.25rem;
+  padding-bottom: 1.5rem;
+}
+
+// ————————————————————————————————————————
+// Responsive
+// ————————————————————————————————————————
+@media (max-width: 575.98px) {
+  .name-block {
+    flex-direction: column;
+    text-align: center;
+    gap: 1.1rem;
+  }
+
+  h1.site-name {
+    font-size: 2.1rem;
+  }
+
+  .news-list .news-item p {
+    flex-direction: column;
+    gap: .1rem;
+  }
+}

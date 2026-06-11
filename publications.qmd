@@ -1,0 +1,90 @@
+---
+title: "Publications"
+pagetitle: "Publications — Quan (Kyle) Zhang"
+---
+
+See also my [ORCID profile](https://orcid.org/0009-0009-2409-309X).
+
+## Peer-reviewed articles & commentaries
+
+::: {.pub-list}
+::: {.pub}
+Zhang, Q. (2026). Do Negative Social Ties Accelerate Aging in Adults, or Does Aging Erode Social Ties? *Proceedings of the National Academy of Sciences (PNAS)*, 123(20), e2608036123.
+:::
+
+::: {.pub}
+Zhang, Q. (2026). Keep REMS focused on safety, not as a barrier to generics. *Health Affairs*.
+:::
+
+::: {.pub}
+Zhang, Q. (2026). Enhancing life-course analyses of financial disadvantage and depressive mood through longitudinal design and causal inference. *Journal of Epidemiology*.
+:::
+
+::: {.pub}
+Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limited areas. *JAMA*.
+:::
+
+::: {.pub}
+Zhang, Q. (2025). Operationalizing distributional cost-effectiveness in genomic medicine: A US-focused comment on Smith et al. *Value in Health*.
+:::
+
+::: {.pub}
+Zhang, Q. (2025). On "The joint impact of greenspace and air pollution on mortality": Methodological proposals. *International Journal of Epidemiology*.
+:::
+
+::: {.pub}
+Zhang, Q. (2025). Re: Khodakarami et al, "Exploring neighborhood opportunity as a factor in pediatric asthma visits to the emergency department": A causal roadmap for Child Opportunity Index 2.0. *Public Health Reports*.
+:::
+:::
+
+## Book chapters (forthcoming)
+
+::: {.pub-list}
+::: {.pub}
+Zhang, Q. (forthcoming). Multidimensional Poverty Index (MPI): Measurement, Health Deprivations, and Policy Use. In R. Baikady (Ed.), *The Palgrave Encyclopedia of Global Poverty Research*. Palgrave Macmillan / Springer Nature.
+:::
+
+::: {.pub}
+Zhang, Q. (forthcoming). Social Determinants of Health and Multidimensional Poverty. In R. Baikady (Ed.), *The Palgrave Encyclopedia of Global Poverty Research*. Palgrave Macmillan / Springer Nature.
+:::
+:::
+
+## Working papers (under review)
+
+::: {.pub-list}
+::: {.pub}
+Inflammatory, Nutritional, and Metabolic Biomarker Profiles in Early-Onset Colorectal Cancer: A 24-Year Cross-Sectional Analysis of NHANES, 2001–2023. *Under review, JAMA Oncology.*
+:::
+
+::: {.pub}
+Enrollment Dynamics and Health Equity Effects of California's Staggered Medi-Cal Expansion to Undocumented Adults. *Under review, Health Affairs.*
+:::
+
+::: {.pub}
+QALY Losses from Acute Health Shocks Across European Welfare Regimes: A Panel Event Study Using SHARE. *Under review, Health Economics.*
+:::
+
+::: {.pub}
+Balancing Innovation Incentives and Equitable Access for AI Health Technologies: Policy Levers for IP, Transparency, and Solidarity. *Under review, npj Health Systems.*
+:::
+
+::: {.pub}
+Caregiving as Health Capital Depreciation: Time Allocation Evidence from IPUMS ATUS. *Under review.*
+:::
+:::
+
+## Work in progress
+
+::: {.pub-list}
+::: {.pub}
+Health Shocks, Frailty Dynamics, and Labor Supply in China's Aging Population: Evidence from CHARLS 2011–2018. *(Submitted to the NBER Summer Institute 2026.)*
+:::
+
+::: {.pub}
+Consumption Smoothing and Falls as Health Shocks: Evidence from CHARLS and HRS.
+:::
+
+::: {.pub}
+Later, Longer, Fewer and the Quantity–Quality Trade-off: Evidence from CHARLS.
+:::
+:::

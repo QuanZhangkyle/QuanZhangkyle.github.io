@@ -1,0 +1,75 @@
+---
+title: "Research"
+pagetitle: "Research — Quan (Kyle) Zhang"
+---
+
+My work applies **causal inference and applied econometrics** to questions in
+health and aging, using large-scale longitudinal microdata (CHARLS, HRS, SHARE,
+NHANES, IPUMS) and quasi-experimental designs — difference-in-differences with
+staggered adoption, event-study and panel methods, instrumental variables,
+regression discontinuity, and double/debiased machine learning.
+
+## Research interests
+
+- Health economics and policy
+- Causal inference and applied econometrics for health and social outcomes
+- Population aging, frailty dynamics, and the joint determination of health and labor supply over the life course
+- Disaster health economics and community resilience
+- Health equity, quantitative health sciences, and clinical research methodology
+
+## Research positions & projects
+
+::: {.working-paper}
+**Graduate Research Assistant — UHERO**, University of Hawaiʻi at Mānoa (2024–present)
+
+- *Maui Wildfire Exposure Study (MauiWES)* — NIH- and state-funded longitudinal cohort (PI: Ruben Juarez).
+- *Roots Reborn Program Evaluation* — post-wildfire economic-empowerment intervention (2025–2026).
+- *Minority-Owned Small Business Financing Study* — City & County of Honolulu, OER-funded (2024–2025).
+:::
+
+::: {.working-paper}
+**International Collaborator & Peer Reviewer — Global Burden of Disease Study 2023**, IHME, University of Washington (2024–present)
+:::
+
+## Dissertation
+
+My dissertation studies health shocks, frailty, and economic behavior in aging
+populations, using panel methods and causal-inference designs.
+
+::: {.pub-list}
+::: {.pub}
+**Chapter 1.** Health Shocks, Frailty Dynamics, and Labor Supply in China's Aging Population: Evidence from CHARLS 2011–2018. *Submitted to the NBER Summer Institute 2026.*
+:::
+
+::: {.pub}
+**Chapter 2.** Consumption Smoothing and Falls as Health Shocks: Evidence from CHARLS and HRS.
+:::
+
+::: {.pub}
+**Chapter 3.** Later, Longer, Fewer and the Quantity–Quality Trade-off: Evidence from CHARLS.
+:::
+:::
+
+## Working papers (under review)
+
+::: {.pub-list}
+::: {.pub}
+Inflammatory, Nutritional, and Metabolic Biomarker Profiles in Early-Onset Colorectal Cancer: A 24-Year Cross-Sectional Analysis of NHANES, 2001–2023. *Under review, JAMA Oncology.*
+:::
+
+::: {.pub}
+Enrollment Dynamics and Health Equity Effects of California's Staggered Medi-Cal Expansion to Undocumented Adults. *Under review, Health Affairs.*
+:::
+
+::: {.pub}
+QALY Losses from Acute Health Shocks Across European Welfare Regimes: A Panel Event Study Using SHARE. *Under review, Health Economics.*
+:::
+
+::: {.pub}
+Balancing Innovation Incentives and Equitable Access for AI Health Technologies: Policy Levers for IP, Transparency, and Solidarity. *Under review, npj Health Systems.*
+:::
+
+::: {.pub}
+Caregiving as Health Capital Depreciation: Time Allocation Evidence from IPUMS ATUS. *Under review; to be presented at GSA 2026.*
+:::
+:::

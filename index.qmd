@@ -1,0 +1,77 @@
+---
+title: ""
+pagetitle: "Quan (Kyle) Zhang — Health Economist"
+description: "Quan (Kyle) Zhang — health economist and PhD candidate at the University of Hawaiʻi at Mānoa. Causal inference, population aging, and health equity."
+---
+
+::: {.name-block}
+![](assets/profile.jpg){.profile-photo}
+
+<div class="name-text">
+<h1 class="site-name">Quan (Kyle) Zhang</h1>
+<p class="site-role">Health Economist · PhD Candidate in Economics</p>
+<p class="site-affil">University of Hawaiʻi at Mānoa<br>Economics · UHERO · John A. Burns School of Medicine</p>
+<p class="site-contact"><a href="mailto:quanz@hawaii.edu">quanz@hawaii.edu</a> <span class="dot">·</span> <a href="https://orcid.org/0009-0009-2409-309X">ORCID</a> <span class="dot">·</span> <a href="https://github.com/QuanZhangkyle">GitHub</a></p>
+</div>
+:::
+
+::: {.bio}
+I am a health economist and PhD candidate in Economics (Quantitative Economics &
+Econometrics) at the **University of Hawaiʻi at Mānoa**, advised by Sang-Hyop Lee,
+where I am concurrently completing an M.S. in Quantitative Health Sciences at the
+**John A. Burns School of Medicine**. My research applies causal inference and
+applied econometrics to population aging, frailty dynamics, health shocks and labor
+supply, disaster health economics, and health equity — drawing on large-scale
+longitudinal microdata such as CHARLS, HRS, and SHARE.
+
+As a Graduate Research Assistant at **UHERO**, I contribute to the NIH- and
+state-funded Maui Wildfire Exposure Study (MauiWES) and related post-disaster
+program evaluations, and I serve as an invited collaborator and peer reviewer for
+the **Global Burden of Disease Study 2023** at IHME.
+:::
+
+## Research Interests
+
+- Health economics and policy
+- Causal inference and applied econometrics for health and social outcomes
+- Population aging, frailty dynamics, and health and labor supply over the life course
+- Disaster health economics and community resilience
+- Health equity and quantitative health sciences
+
+## News
+
+::: {.news-list}
+::: {.news-item}
+[2026]{.news-date} New paper in *Proceedings of the National Academy of Sciences (PNAS)*: "Do Negative Social Ties Accelerate Aging in Adults, or Does Aging Erode Social Ties?"
+:::
+
+::: {.news-item}
+[2026]{.news-date} Selected for the **AWARD Network Summer Institute** (UCSF; NIA/NIH-funded national cohort).
+:::
+
+::: {.news-item}
+[2026]{.news-date} Awarded the **Bernie Campbell Fellowship Fund Award**, University of Hawaiʻi at Mānoa.
+:::
+
+::: {.news-item}
+[Nov 2026]{.news-date} Presenting at the **GSA 2026 Annual Scientific Meeting** (NDIRA Caregiving Symposium), National Harbor, MD.
+:::
+:::
+
+## Selected Publications
+
+::: {.pub-list}
+::: {.pub}
+Zhang, Q. (2026). Do Negative Social Ties Accelerate Aging in Adults, or Does Aging Erode Social Ties? *Proceedings of the National Academy of Sciences (PNAS)*, 123(20), e2608036123.
+:::
+
+::: {.pub}
+Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limited areas. *JAMA*.
+:::
+
+::: {.pub}
+Zhang, Q. (2026). Keep REMS focused on safety, not as a barrier to generics. *Health Affairs*.
+:::
+:::
+
+[See all publications →](publications.qmd){.more-link}

@@ -1,0 +1,18 @@
+---
+title: "Curriculum Vitae"
+---
+
+<!-- TODO: drop your CV PDF into the assets/ folder as `assets/cv.pdf`.
+     The button and embedded viewer below will pick it up automatically. -->
+
+[<i class="bi bi-file-earmark-pdf"></i> Download CV (PDF)](assets/cv.pdf){.btn .btn-primary target="_blank"}
+
+<br>
+
+```{=html}
+<object data="assets/cv.pdf" type="application/pdf" width="100%" height="900px"
+        style="border:1px solid #e2e8f0; border-radius:8px;">
+  <p>Your browser can't display the embedded PDF.
+     <a href="assets/cv.pdf">Download it here</a>.</p>
+</object>
+```

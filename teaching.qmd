@@ -1,0 +1,25 @@
+---
+title: "Teaching"
+pagetitle: "Teaching — Quan (Kyle) Zhang"
+---
+
+## Teaching
+
+::: {.pub-list}
+::: {.pub}
+**Instructor** — Introduction to Statistics. Department of Economics, University of Hawaiʻi at Mānoa. Summer 2025.
+:::
+
+::: {.pub}
+**Teaching Assistant** — Principles of Microeconomics & Macroeconomics. University of Hawaiʻi at Mānoa. 2023–2024.
+:::
+
+::: {.pub}
+**Teaching Assistant** — Operations Research / Decision Analysis (Arena Simulation). Industrial & Systems Engineering, Northern Illinois University. 2010–2012.
+:::
+:::
+
+## Mentoring
+
+I am happy to talk with students interested in health economics, causal inference,
+and the economics of aging. Feel free to [get in touch](mailto:quanz@hawaii.edu).
