@@ -29,6 +29,8 @@ website:
         text: Experience
       - href: cv.qmd
         text: CV
+      - href: faith.qmd
+        text: Faith
     right:
       - icon: envelope
         href: "mailto:quanz@hawaii.edu"
