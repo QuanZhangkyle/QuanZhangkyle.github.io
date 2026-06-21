@@ -11,7 +11,7 @@ description: "Quan (Kyle) Zhang — health economist and data scientist at the U
 <h1 class="site-name">Quan (Kyle) Zhang</h1>
 <p class="site-role">Health Economist · Data Scientist</p>
 <p class="site-affil">University of Hawaiʻi at Mānoa<br><a href="https://www.economics.hawaii.edu/">Economics</a> · <a href="https://uhero.hawaii.edu/">UHERO</a> · <a href="https://jabsom.hawaii.edu/">John A. Burns School of Medicine</a></p>
-<p class="site-contact"><a href="mailto:quanz@hawaii.edu">quanz@hawaii.edu</a> <span class="dot">·</span> <a href="https://scholar.google.com/citations?user=lWeyFo4AAAAJ">Google Scholar</a> <span class="dot">·</span> <a href="https://orcid.org/0009-0009-2409-309X">ORCID</a> <span class="dot">·</span> <a href="https://github.com/QuanZhangkyle">GitHub</a> <span class="dot">·</span> <a href="https://www.linkedin.com/in/quanzhangkyle/">LinkedIn</a> <span class="dot">·</span> <a href="https://www.researchgate.net/profile/Quan-Zhang-96">ResearchGate</a></p>
+<p class="site-contact"><a href="mailto:quanz@hawaii.edu">quanz@hawaii.edu</a> <span class="dot">·</span> <a href="https://scholar.google.com/citations?user=lWeyFo4AAAAJ">Google Scholar</a> <span class="dot">·</span> <a href="https://orcid.org/0009-0009-2409-309X">ORCID</a> <span class="dot">·</span> <a href="https://github.com/QuanZhangkyle">GitHub</a> <span class="dot">·</span> <a href="https://www.linkedin.com/in/quanzhangkyle/">LinkedIn</a> <span class="dot">·</span> <a href="https://www.researchgate.net/profile/Quan-Zhang-96">ResearchGate</a> <span class="dot">·</span> <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11462228">SSRN</a></p>
 </div>
 :::
 
