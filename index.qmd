@@ -55,6 +55,15 @@ Metrics and Evaluation (IHME), University of Washington.
 - **PhD in Economics** (Quantitative Economics & Econometrics), University of Hawaiʻi at Mānoa
 - **Quantitative Health Sciences**, John A. Burns School of Medicine, University of Hawaiʻi at Mānoa
 
+## Awards & Honors
+
+- **AWARD Network Summer Institute**, University of California, San Francisco — a highly competitive national selection (≈20 scholars chosen nationwide; NIA/NIH-funded), 2026
+- **Bernie Campbell Fellowship Fund Award**, University of Hawaiʻi at Mānoa, 2026
+- **Burnham O. Campbell Fund Award**, University of Hawaiʻi at Mānoa, 2025
+- **Hung Family Scholarship Award**, 2024 and 2025
+- **Jordan & Cara Odo Foundation Leadership Scholarship**, 2024
+- **Achievement Award**, Department of Economics, University of Hawaiʻi at Mānoa, 2023
+
 ## News
 
 ::: {.news-list}
@@ -63,11 +72,7 @@ Metrics and Evaluation (IHME), University of Washington.
 :::
 
 ::: {.news-item}
-[2026]{.news-date} Selected for the **AWARD Network Summer Institute** (UCSF; NIA/NIH-funded national cohort).
-:::
-
-::: {.news-item}
-[2026]{.news-date} Awarded the **Bernie Campbell Fellowship Fund Award**, University of Hawaiʻi at Mānoa.
+[2026]{.news-date} Selected for the **AWARD Network Summer Institute** (UCSF) — a highly competitive, NIA/NIH-funded national program (≈20 scholars selected nationwide).
 :::
 
 ::: {.news-item}

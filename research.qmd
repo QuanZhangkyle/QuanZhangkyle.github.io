@@ -77,3 +77,11 @@ Balancing Innovation Incentives and Equitable Access for AI Health Technologies:
 Caregiving as Health Capital Depreciation: Time Allocation Evidence from IPUMS ATUS. *Under review.*
 :::
 :::
+
+## Presentations
+
+::: {.pub-list}
+::: {.pub}
+"Chronic versus Acute Health Shocks and the Margins of Labor Supply: Evidence from Frailty Dynamics in an Aging Population." **Southern Economic Association (SEA) 96th Annual Meeting**, Houston, TX, November 2026.
+:::
+:::
