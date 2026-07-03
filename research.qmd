@@ -28,7 +28,13 @@ regression discontinuity, and double/debiased machine learning.
 :::
 
 ::: {.working-paper}
-**International collaborator — Global Burden of Disease Study 2023**, IHME, University of Washington (2024–present)
+**International collaborator & peer reviewer — Global Burden of Disease Study 2023**, IHME, University of Washington (2024–present). Peer reviewer for five GBD 2023 estimation streams:
+
+- Dietary risks
+- Colon & rectum cancer
+- Environmental exposures
+- Type 1 diabetes
+- Antimicrobial resistance (WHO Western Pacific Region)
 :::
 
 ::: {.working-paper}
