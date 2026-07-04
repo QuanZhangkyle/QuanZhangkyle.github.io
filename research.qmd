@@ -28,13 +28,13 @@ regression discontinuity, and double/debiased machine learning.
 :::
 
 ::: {.working-paper}
-**International collaborator & peer reviewer — Global Burden of Disease Study 2023**, IHME, University of Washington (2024–present). Peer reviewer for five GBD 2023 estimation streams:
+**International collaborator & peer reviewer — Global Burden of Disease Study 2023**, IHME, University of Washington (2024–present). Invited peer reviewer for five GBD 2023 estimation manuscripts:
 
-- Dietary risks
-- Colon & rectum cancer
-- Environmental exposures
-- Type 1 diabetes
-- Antimicrobial resistance (WHO Western Pacific Region)
+1. Global Dietary Risks
+2. Global Colon & Rectum Cancer
+3. Global Environmental Exposures
+4. Global Type 1 Diabetes
+5. Antimicrobial Resistance — WHO Western Pacific Region
 :::
 
 ::: {.working-paper}
@@ -84,7 +84,7 @@ Caregiving as Health Capital Depreciation: Time Allocation Evidence from IPUMS A
 :::
 :::
 
-## Presentations
+## Conference Presentations
 
 ::: {.pub-list}
 ::: {.pub}
