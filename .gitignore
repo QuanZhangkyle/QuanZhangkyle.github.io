@@ -12,3 +12,6 @@ Thumbs.db
 .Rproj.user
 .Rhistory
 .RData
+
+# Local CV staging folder (deployed copy is assets/cv.pdf)
+/Resume/
