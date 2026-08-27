@@ -27,7 +27,9 @@ microdata such as CHARLS, HRS, and SHARE in R, Python, SQL, and Stata.
 As a researcher at UHERO, I contribute to the NIH- and state-funded Maui Wildfire
 Exposure Study (MauiWES). I am also an invited collaborator and peer
 reviewer for the Global Burden of Disease Study 2023 at the Institute for Health
-Metrics and Evaluation (IHME), University of Washington.
+Metrics and Evaluation (IHME), University of Washington, where I have reviewed
+nine GBD 2023 estimation manuscripts and hold named collaborator-authorship on
+two currently under review at Lancet-family journals.
 :::
 
 ## Methods & Tools
@@ -79,6 +81,14 @@ Metrics and Evaluation (IHME), University of Washington.
 
 ::: {.news-list}
 ::: {.news-item}
+[Aug 2026]{.news-date} New paper published in *npj Digital Medicine*: "Ensuring trustworthy AI assisted guideline development for clinical practice."
+:::
+
+::: {.news-item}
+[Aug 2026]{.news-date} Named collaborator-author on two **Global Burden of Disease 2023** papers now under review at *The Lancet Oncology* and *The Lancet Regional Health – Western Pacific*.
+:::
+
+::: {.news-item}
 [2026]{.news-date} New paper in *Proceedings of the National Academy of Sciences (PNAS)*: "Do Negative Social Ties Accelerate Aging in Adults, or Does Aging Erode Social Ties?"
 :::
 
@@ -94,6 +104,12 @@ Metrics and Evaluation (IHME), University of Washington.
 ## Selected Publications
 
 ::: {.pub-list}
+::: {.pub}
+Zhang, Q., & Fu, Y. (2026). Ensuring trustworthy AI assisted guideline development for clinical practice. *npj Digital Medicine*, 9(1), 661.
+
+[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1038/s41746-026-03098-z){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
+:::
+
 ::: {.pub}
 Zhang, Q. (2026). Do Negative Social Ties Accelerate Aging in Adults, or Does Aging Erode Social Ties? *Proceedings of the National Academy of Sciences (PNAS)*, 123(20), e2608036123.
 

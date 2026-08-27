@@ -9,6 +9,12 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=lWeyFo4AA
 
 ::: {.pub-list}
 ::: {.pub}
+Zhang, Q., & Fu, Y. (2026). Ensuring trustworthy AI assisted guideline development for clinical practice. *npj Digital Medicine*, 9(1), 661.
+
+[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1038/s41746-026-03098-z){.pub-link}
+:::
+
+::: {.pub}
 Zhang, Q. (2026). Do Negative Social Ties Accelerate Aging in Adults, or Does Aging Erode Social Ties? *Proceedings of the National Academy of Sciences (PNAS)*, 123(20), e2608036123.
 
 [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1073/pnas.2608036123){.pub-link}
@@ -33,6 +39,12 @@ Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limit
 :::
 
 ::: {.pub}
+Zhang, Q. (2025). Operationalizing distributional cost-effectiveness in genomic medicine: A US-focused comment on Smith et al. *Value in Health*.
+
+[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1016/j.jval.2025.09.3068){.pub-link}
+:::
+
+::: {.pub}
 Zhang, Q. (2025). On "The joint impact of greenspace and air pollution on mortality": Methodological proposals. *International Journal of Epidemiology*.
 
 [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1093/ije/dyaf224){.pub-link}
@@ -42,6 +54,20 @@ Zhang, Q. (2025). On "The joint impact of greenspace and air pollution on mortal
 Zhang, Q. (2025). Re: Khodakarami et al, "Exploring neighborhood opportunity as a factor in pediatric asthma visits to the emergency department": A causal roadmap for Child Opportunity Index 2.0. *Public Health Reports*.
 
 [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1177/00333549251403917){.pub-link}
+:::
+:::
+
+## Global Burden of Disease 2023 — collaborative publications
+
+*Named collaborator-author under group authorship, Institute for Health Metrics and Evaluation (IHME).*
+
+::: {.pub-list}
+::: {.pub}
+GBD 2023 Colon and Rectum Cancer Collaborators. Global, Regional, and National Burden of Colon and Rectum Cancer from 1990 to 2023, with Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023. *Under review, The Lancet Oncology.*
+:::
+
+::: {.pub}
+GBD 2023 Western Pacific WHO AMR Collaborators. The Burden of Bacterial Antimicrobial Resistance in the WHO Region of the Western Pacific: A Cross-Country Systematic Analysis. *Under review, The Lancet Regional Health – Western Pacific.*
 :::
 :::
 
@@ -61,23 +87,27 @@ Zhang, Q. (forthcoming). Social Determinants of Health and Multidimensional Pove
 
 ::: {.pub-list}
 ::: {.pub}
+Zhang, Q., & Hu, W. Subclinical Cardiometabolic–Inflammatory Burden, Disability-Free Working Life and Work Exit in Three Ageing Cohorts. *Under review, Nature Aging.*
+
+[<i class="bi bi-box-arrow-up-right"></i> SSRN](https://doi.org/10.2139/ssrn.6904567){.pub-link}
+:::
+
+::: {.pub}
 Inflammatory, Nutritional, and Metabolic Biomarker Profiles in Early-Onset Colorectal Cancer: A 24-Year Cross-Sectional Analysis of NHANES, 2001–2023. *Under review, JAMA Oncology.*
 :::
 
 ::: {.pub}
-Enrollment Dynamics and Health Equity Effects of California's Staggered Medi-Cal Expansion to Undocumented Adults. *Under review, Health Affairs.*
+Zhang, Q., & Lee, S.-H. Adult Children's Labor Supply and Co-residence after Parental Dementia: A Lifecycle Reassessment. *Under review, Health Economics.*
 :::
 
 ::: {.pub}
-Health Shocks and the Permanent Labor-Market Exit of Older Europeans. *Under review, Journal of Population Economics.*
+Which Diagnoses Change How Long People Think They Will Live: Cancer against Other First Diagnoses in Three Ageing Panels. *Under review, The Journal of the Economics of Ageing.*
+
+[<i class="bi bi-box-arrow-up-right"></i> SSRN](https://doi.org/10.2139/ssrn.7198658){.pub-link}
 :::
 
 ::: {.pub}
-Balancing Innovation Incentives and Equitable Access for AI Health Technologies: Policy Levers for IP, Transparency, and Solidarity. *Under review, npj Health Systems.*
-:::
-
-::: {.pub}
-Caregiving as Health Capital Depreciation: Time Allocation Evidence from IPUMS ATUS. *Under review.*
+Restricted-Scope Medi-Cal Enrollment Rose Sharply After California's 2026 Adult Enrollment Freeze. *Under review, Health Affairs Scholar.*
 :::
 :::
 
@@ -89,16 +119,44 @@ Chronic versus Acute Health Shocks and the Margins of Labor Supply: Evidence fro
 :::
 
 ::: {.pub}
+Health Shocks and the Permanent Labor-Market Exit of Older Europeans.
+:::
+
+::: {.pub}
+Sustained Insulin Resistance and Incident Coronary Heart Disease in Older English Adults: A Selection-Weighted Cohort Analysis of the English Longitudinal Study of Ageing.
+
+[<i class="bi bi-box-arrow-up-right"></i> SSRN](https://doi.org/10.2139/ssrn.7172521){.pub-link}
+:::
+
+::: {.pub}
+Balancing Innovation Incentives and Equitable Access for AI Health Technologies: Policy Levers for IP, Transparency, and Solidarity.
+:::
+
+::: {.pub}
+How Much Care, and How Much Harm? Measuring Both After a Spouse Falls Ill.
+:::
+
+::: {.pub}
+Caregiving as Health Capital Depreciation: Time Allocation Evidence from IPUMS ATUS.
+:::
+
+::: {.pub}
 Falls, Missing Markets, and Labor Supply: Evidence from China.
 :::
 
 ::: {.pub}
 Later, Longer, Fewer and the Quantity–Quality Trade-off: Evidence from CHARLS.
 :::
+:::
+
+## Conference presentations
+
+::: {.pub-list}
+::: {.pub}
+Zhang, Q. (2026). Chronic versus Acute Health Shocks and the Margins of Labor Supply: Evidence from Frailty Dynamics in an Aging Population. Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 21–23, 2026.
+:::
 
 ::: {.pub}
-Subclinical Cardiometabolic–Inflammatory Burden and the Compression of Disability-Free Working Life in Older US Adults: A Health and Retirement Study Cohort Analysis.
-
-[<i class="bi bi-box-arrow-up-right"></i> SSRN](https://doi.org/10.2139/ssrn.6904567){.pub-link}
+Zhang, Q. (2026). Nutritional Depletion, Not Inflammation Alone, Independently Associates with Colorectal Cancer: A 24-Year NHANES Analysis (2001–2023) with a Distinct Early-Onset Phenotype. Flash talk, International Conference on Intelligent Biology and Medicine (ICIBM) 2026, Buffalo, NY, August 2026.
 :::
 :::
