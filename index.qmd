@@ -29,7 +29,7 @@ Exposure Study (MauiWES). I am also an invited collaborator and peer
 reviewer for the Global Burden of Disease Study 2023 at the Institute for Health
 Metrics and Evaluation (IHME), University of Washington, where I have reviewed
 nine GBD 2023 estimation manuscripts and hold named collaborator-authorship on
-two currently under review at Lancet-family journals.
+three currently under review at Lancet-family journals.
 :::
 
 ## Methods & Tools
@@ -73,6 +73,7 @@ two currently under review at Lancet-family journals.
 - American Economic Association (AEA)
 - American Society of Health Economists (ASHEcon)
 - International Health Economics Association (iHEA)
+- Society for Epidemiologic Research (SER)
 - Gerontological Society of America (GSA)
 - Hawaii Economic Association (HEA)
 - Pi Gamma Mu (International Honor Society in the Social Sciences)
@@ -85,7 +86,7 @@ two currently under review at Lancet-family journals.
 :::
 
 ::: {.news-item}
-[Aug 2026]{.news-date} Named collaborator-author on two **Global Burden of Disease 2023** papers now under review at *The Lancet Oncology* and *The Lancet Regional Health – Western Pacific*.
+[Aug 2026]{.news-date} Named collaborator-author on three **Global Burden of Disease 2023** papers now under review at *The Lancet Oncology*, *The Lancet Regional Health – Western Pacific*, and *The Lancet Primary Care*.
 :::
 
 ::: {.news-item}

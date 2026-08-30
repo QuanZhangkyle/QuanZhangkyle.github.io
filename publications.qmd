@@ -69,6 +69,10 @@ GBD 2023 Colon and Rectum Cancer Collaborators. Global, Regional, and National B
 ::: {.pub}
 GBD 2023 Western Pacific WHO AMR Collaborators. The Burden of Bacterial Antimicrobial Resistance in the WHO Region of the Western Pacific: A Cross-Country Systematic Analysis. *Under review, The Lancet Regional Health – Western Pacific.*
 :::
+
+::: {.pub}
+GBD 2023 Type 1 Diabetes Collaborators. Global, Regional, and National Type 1 Diabetes Burden: A Systematic Analysis of the Global Burden of Disease Study 2023. *Under review, The Lancet Primary Care.*
+:::
 :::
 
 ## Book chapters (forthcoming)
