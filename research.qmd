@@ -9,6 +9,9 @@ NHANES, IPUMS) and quasi-experimental designs — difference-in-differences with
 staggered adoption, event-study and panel methods, instrumental variables,
 regression discontinuity, and double/debiased machine learning.
 
+The full list of papers — published, under review, and in progress — and conference
+presentations is on the [Publications](publications.qmd) page.
+
 ## Research interests
 
 - Health economics and policy
@@ -22,23 +25,32 @@ regression discontinuity, and double/debiased machine learning.
 ::: {.working-paper}
 **Researcher — UHERO**, University of Hawaiʻi at Mānoa (2024–present)
 
-- *Maui Wildfire Exposure Study (MauiWES)* — NIH- and state-funded longitudinal cohort.
+- *Maui Wildfire Exposure Study (MauiWES)* — NIH- and state-funded longitudinal cohort (2024–present).
+- *Kaiona Survey Project* — youth health and well-being survey and program evaluation, in partnership with Waiʻanae Coast Comprehensive Health Center (2025–present).
 - *Roots Reborn Program Evaluation* — post-wildfire economic-empowerment intervention (2025–2026).
-- *Minority-Owned Small Business Financing Study* — City & County of Honolulu, OER-funded (2024–2025).
+- *Small Business Success in Honolulu* — City & County of Honolulu Office of Economic Revitalization; co-authored UHERO report (2024–2025).
 :::
 
 ::: {.working-paper}
-**International collaborator & peer reviewer — Global Burden of Disease Study 2023**, IHME, University of Washington (2024–present). Invited peer reviewer for five GBD 2023 estimation manuscripts:
-
-1. Global Dietary Risks
-2. Global Colon & Rectum Cancer
-3. Global Environmental Exposures
-4. Global Type 1 Diabetes
-5. Antimicrobial Resistance — WHO Western Pacific Region
+**Research Allied Health Professional — The Queen's Medical Center**, Honolulu (2025–present). Data collection and analysis for an IRB-approved colorectal cancer study, in collaboration with the Department of Quantitative Health Sciences, John A. Burns School of Medicine.
 :::
 
 ::: {.working-paper}
-**Journal peer reviewer** — *Public Health in Practice* (Elsevier, 2025–present) and *Aging-US* (2026–present)
+**Collaborator & peer reviewer — Global Burden of Disease Study 2023**, IHME, University of Washington (2025–present). Peer reviewer for nine GBD 2023 estimation manuscripts, and named collaborator-author on three of them now under review at *The Lancet Oncology*, *The Lancet Regional Health – Western Pacific*, and *The Lancet Primary Care*:
+
+1. Global Type 1 Diabetes — *collaborator-author*
+2. Antimicrobial Resistance — WHO Western Pacific Region — *collaborator-author*
+3. Global Colon & Rectum Cancer — *collaborator-author*
+4. Global Environmental Exposures
+5. Global Dietary Risks
+6. Global Ageing and Non-Communicable Diseases
+7. Global Alzheimer's Disease & Other Dementias
+8. Global Stroke
+9. Global Ageing and Inequality
+:::
+
+::: {.working-paper}
+**Peer reviewer** — *Public Health in Practice* (Elsevier, 2026–present) and *Aging* (Aging-US, 2026); abstract reviewer for the Gerontological Society of America 2026 Annual Scientific Meeting
 :::
 
 ## Dissertation
@@ -48,7 +60,7 @@ populations, using panel methods and causal-inference designs.
 
 ::: {.pub-list}
 ::: {.pub}
-**Chapter 1.** Chronic versus Acute Health Shocks and the Margins of Labor Supply: Evidence from Frailty Dynamics in an Aging Population. *Accepted at the Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 2026.*
+**Chapter 1.** Working Through Frailty: Chronic versus Acute Health Shocks and the Margins of Labor Supply. *To be presented at the Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 2026.*
 :::
 
 ::: {.pub}
@@ -57,37 +69,5 @@ populations, using panel methods and causal-inference designs.
 
 ::: {.pub}
 **Chapter 3.** Later, Longer, Fewer and the Quantity–Quality Trade-off: Evidence from CHARLS.
-:::
-:::
-
-## Working papers (under review)
-
-::: {.pub-list}
-::: {.pub}
-Inflammatory, Nutritional, and Metabolic Biomarker Profiles in Early-Onset Colorectal Cancer: A 24-Year Cross-Sectional Analysis of NHANES, 2001–2023. *Under review, JAMA Oncology.*
-:::
-
-::: {.pub}
-Enrollment Dynamics and Health Equity Effects of California's Staggered Medi-Cal Expansion to Undocumented Adults. *Under review, Health Affairs.*
-:::
-
-::: {.pub}
-Health Shocks and the Permanent Labor-Market Exit of Older Europeans. *Under review, Journal of Population Economics.*
-:::
-
-::: {.pub}
-Balancing Innovation Incentives and Equitable Access for AI Health Technologies: Policy Levers for IP, Transparency, and Solidarity. *Under review, npj Health Systems.*
-:::
-
-::: {.pub}
-Caregiving as Health Capital Depreciation: Time Allocation Evidence from IPUMS ATUS. *Under review.*
-:::
-:::
-
-## Conference Presentations
-
-::: {.pub-list}
-::: {.pub}
-"Chronic versus Acute Health Shocks and the Margins of Labor Supply: Evidence from Frailty Dynamics in an Aging Population." **Southern Economic Association (SEA) 96th Annual Meeting**, Houston, TX, November 2026.
 :::
 :::

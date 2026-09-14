@@ -54,18 +54,16 @@ three currently under review at Lancet-family journals.
 
 ## Education
 
-- **PhD in Economics** (Quantitative Economics & Econometrics), University of Hawaiʻi at Mānoa
-- **Quantitative Health Sciences**, John A. Burns School of Medicine, University of Hawaiʻi at Mānoa
+- **PhD in Economics** (Quantitative Economics & Econometrics), University of Hawaiʻi at Mānoa, 2023–2027
+- **MA in Economics** (en route to PhD), University of Hawaiʻi at Mānoa, 2026
+- **Quantitative Health Sciences**, John A. Burns School of Medicine, University of Hawaiʻi at Mānoa, 2024–2026
 
 ## Awards & Honors
 
-- **AWARD Network Summer Institute**, University of California, San Francisco — a highly competitive national selection (≈20 scholars chosen nationwide; NIA/NIH-funded), 2026
-- **Bernie Campbell Fellowship Fund Award**, University of Hawaiʻi at Mānoa, 2026
-- **Research Stipend**, College of Social Sciences, University of Hawaiʻi at Mānoa, 2026 — *Global Burden of Disease, Health Inequalities, and Disaster Resilience*
-- **Burnham O. Campbell Fund Award**, University of Hawaiʻi at Mānoa, 2025
-- **Hung Family Scholarship Award**, 2025
-- **Hung Family Scholarship Award**, 2024
-- **Jordan & Cara Odo Foundation Leadership Scholarship**, 2024
+- **AWARD Network Summer Training Institute**, University of California, San Francisco — a highly competitive national selection (22 participants; NIA/NIH-funded), 2026
+- **Research Stipend**, Department of Economics, University of Hawaiʻi at Mānoa, 2026 — *Global Burden of Disease, Health Inequalities, and Disaster Resilience*
+- **Burnham Campbell Fellowship Award**, Department of Economics, University of Hawaiʻi at Mānoa, 2025 and 2026
+- **Hung Family Fellowship**, University of Hawaiʻi at Mānoa, 2024–25 and 2025–26
 - **Achievement Award**, Department of Economics, University of Hawaiʻi at Mānoa, 2023
 
 ## Professional Affiliations
@@ -82,23 +80,27 @@ three currently under review at Lancet-family journals.
 
 ::: {.news-list}
 ::: {.news-item}
-[Aug 2026]{.news-date} New paper published in *npj Digital Medicine*: "Ensuring trustworthy AI assisted guideline development for clinical practice."
-:::
-
-::: {.news-item}
 [Aug 2026]{.news-date} Named collaborator-author on three **Global Burden of Disease 2023** papers now under review at *The Lancet Oncology*, *The Lancet Regional Health – Western Pacific*, and *The Lancet Primary Care*.
 :::
 
 ::: {.news-item}
-[2026]{.news-date} New paper in *Proceedings of the National Academy of Sciences (PNAS)*: "Do Negative Social Ties Accelerate Aging in Adults, or Does Aging Erode Social Ties?"
+[Aug 2026]{.news-date} New paper published in *npj Digital Medicine*: "Ensuring trustworthy AI assisted guideline development for clinical practice."
 :::
 
 ::: {.news-item}
-[2026]{.news-date} Selected for the **AWARD Network Summer Institute** (UCSF) — a highly competitive, NIA/NIH-funded national program (≈20 scholars selected nationwide).
+[Aug 2026]{.news-date} Project accepted for the **Gateway Research Workshop on Cross-Country Comparisons**, held during the GSA 2026 Annual Scientific Meeting (National Harbor, MD, November 4, 2026).
 :::
 
 ::: {.news-item}
-[Nov 2026]{.news-date} Paper accepted at the **Southern Economic Association (SEA) 96th Annual Meeting**, Houston, TX.
+[Jun 2026]{.news-date} Paper accepted at the **Southern Economic Association (SEA) 96th Annual Meeting** (Houston, TX, November 21, 2026).
+:::
+
+::: {.news-item}
+[May 2026]{.news-date} New paper in *Proceedings of the National Academy of Sciences (PNAS)*: "Do Negative Social Ties Accelerate Aging in Adults, or Does Aging Erode Social Ties?"
+:::
+
+::: {.news-item}
+[Apr 2026]{.news-date} Selected for the **AWARD Network Summer Training Institute** (UCSF) — a highly competitive, NIA/NIH-funded national program (22 participants).
 :::
 :::
 
@@ -124,7 +126,7 @@ Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limit
 :::
 
 ::: {.pub}
-Zhang, Q. (2026). Keep REMS focused on safety, not as a barrier to generics. *Health Affairs*.
+Zhang, Q. (2026). Keep REMS focused on safety, not as a barrier to generics. *Health Affairs*, 45(4), 451.
 
 [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1377/hlthaff.2025.01565){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
 :::

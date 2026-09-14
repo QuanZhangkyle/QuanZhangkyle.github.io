@@ -21,13 +21,13 @@ Zhang, Q. (2026). Do Negative Social Ties Accelerate Aging in Adults, or Does Ag
 :::
 
 ::: {.pub}
-Zhang, Q. (2026). Keep REMS focused on safety, not as a barrier to generics. *Health Affairs*.
+Zhang, Q. (2026). Keep REMS focused on safety, not as a barrier to generics. *Health Affairs*, 45(4), 451.
 
 [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1377/hlthaff.2025.01565){.pub-link}
 :::
 
 ::: {.pub}
-Zhang, Q. (2026). Enhancing life-course analyses of financial disadvantage and depressive mood through longitudinal design and causal inference. *Journal of Epidemiology*.
+Zhang, Q. (2026). Enhancing life-course analyses of financial disadvantage and depressive mood through longitudinal design and causal inference. *Journal of Epidemiology*, 36(5), 173–174.
 
 [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.2188/jea.JE20250542){.pub-link}
 :::
@@ -36,12 +36,6 @@ Zhang, Q. (2026). Enhancing life-course analyses of financial disadvantage and d
 Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limited areas. *JAMA*.
 
 [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1001/jama.2025.21041){.pub-link}
-:::
-
-::: {.pub}
-Zhang, Q. (2025). Operationalizing distributional cost-effectiveness in genomic medicine: A US-focused comment on Smith et al. *Value in Health*.
-
-[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1016/j.jval.2025.09.3068){.pub-link}
 :::
 
 ::: {.pub}
@@ -75,92 +69,106 @@ GBD 2023 Type 1 Diabetes Collaborators. Global, Regional, and National Type 1 Di
 :::
 :::
 
-## Book chapters (forthcoming)
+## Book chapters
 
 ::: {.pub-list}
 ::: {.pub}
-Zhang, Q. (forthcoming). Multidimensional Poverty Index (MPI): Measurement, Health Deprivations, and Policy Use. In R. Baikady (Ed.), *The Palgrave Encyclopedia of Global Poverty Research*. Palgrave Macmillan / Springer Nature.
+Zhang, Q. (forthcoming). Social Determinants of Health and Multidimensional Poverty. In R. Baikady (Ed.), *The Palgrave Encyclopedia of Concepts and Theories in the Context of Global Poverty*. Palgrave Macmillan / Springer Nature.
 :::
 
 ::: {.pub}
-Zhang, Q. (forthcoming). Social Determinants of Health and Multidimensional Poverty. In R. Baikady (Ed.), *The Palgrave Encyclopedia of Global Poverty Research*. Palgrave Macmillan / Springer Nature.
+Zhang, Q. (under review). Multidimensional Poverty Index (MPI): Measurement, Health Deprivations, and Policy Use. In R. Baikady (Ed.), *The Palgrave Encyclopedia of Global Poverty Research*. Palgrave Macmillan / Springer Nature.
 :::
 :::
 
-## Working papers (under review)
+## Under review
 
 ::: {.pub-list}
-::: {.pub}
-Zhang, Q., & Hu, W. Subclinical Cardiometabolic–Inflammatory Burden, Disability-Free Working Life and Work Exit in Three Ageing Cohorts. *Under review, Nature Aging.*
-
-[<i class="bi bi-box-arrow-up-right"></i> SSRN](https://doi.org/10.2139/ssrn.6904567){.pub-link}
-:::
-
-::: {.pub}
-Inflammatory, Nutritional, and Metabolic Biomarker Profiles in Early-Onset Colorectal Cancer: A 24-Year Cross-Sectional Analysis of NHANES, 2001–2023. *Under review, JAMA Oncology.*
-:::
-
 ::: {.pub}
 Zhang, Q., & Lee, S.-H. Adult Children's Labor Supply and Co-residence after Parental Dementia: A Lifecycle Reassessment. *Under review, Health Economics.*
 :::
 
 ::: {.pub}
-Which Diagnoses Change How Long People Think They Will Live: Cancer against Other First Diagnoses in Three Ageing Panels. *Under review, The Journal of the Economics of Ageing.*
+Zhang, Q. Which Diagnoses Change How Long People Think They Will Live: Cancer against Other First Diagnoses in Three Ageing Panels. *Under review, The Journal of the Economics of Ageing.*
 
 [<i class="bi bi-box-arrow-up-right"></i> SSRN](https://doi.org/10.2139/ssrn.7198658){.pub-link}
 :::
 
 ::: {.pub}
-Restricted-Scope Medi-Cal Enrollment Rose Sharply After California's 2026 Adult Enrollment Freeze. *Under review, Health Affairs Scholar.*
+Zhang, Q. Definition-Dependent Burden: Classification Algorithm, Error Model, and Target Population in Measured Dementia Prevalence, United States Health and Retirement Study, 2000–2016. *Under review, International Journal of Epidemiology.*
+
+[<i class="bi bi-box-arrow-up-right"></i> SSRN](https://doi.org/10.2139/ssrn.7376478){.pub-link}
+:::
+
+::: {.pub}
+Li, W., Zhang, Q., Jeong, C., & Wen, B. Generative AI and Organizational Reconfiguration: Evidence from Firm-Level Employment Adjustment. *Conditionally accepted, 60th Hawaii International Conference on System Sciences (HICSS-60).*
 :::
 :::
 
-## Work in progress
+## Working papers
 
 ::: {.pub-list}
 ::: {.pub}
-Chronic versus Acute Health Shocks and the Margins of Labor Supply: Evidence from Frailty Dynamics in an Aging Population. *Accepted at the Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 2026.*
+Zhang, Q. Working Through Frailty: Chronic versus Acute Health Shocks and the Margins of Labor Supply. *To be presented at the Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 2026.*
+
+[<i class="bi bi-box-arrow-up-right"></i> SSRN](https://doi.org/10.2139/ssrn.7376080){.pub-link}
 :::
 
 ::: {.pub}
-Health Shocks and the Permanent Labor-Market Exit of Older Europeans.
+Zhang, Q., & Hu, W. Subclinical Cardiometabolic–Inflammatory Burden, Disability-Free Working Life and Work Exit in Three Ageing Cohorts.
 :::
 
 ::: {.pub}
-Sustained Insulin Resistance and Incident Coronary Heart Disease in Older English Adults: A Selection-Weighted Cohort Analysis of the English Longitudinal Study of Ageing.
+Zhang, Q., Lyu, J., Slavens, C., & Hu, W. Sustained Insulin Resistance and Incident Coronary Heart Disease in Older English Adults: A Selection-Weighted Cohort Analysis of the English Longitudinal Study of Ageing.
 
 [<i class="bi bi-box-arrow-up-right"></i> SSRN](https://doi.org/10.2139/ssrn.7172521){.pub-link}
 :::
 
 ::: {.pub}
-Balancing Innovation Incentives and Equitable Access for AI Health Technologies: Policy Levers for IP, Transparency, and Solidarity.
+Zhang, Q. Health Shocks and the Permanent Labor-Market Exit of Older Europeans.
 :::
 
 ::: {.pub}
-How Much Care, and How Much Harm? Measuring Both After a Spouse Falls Ill.
+Nutritional Depletion, Inflammation, and Colorectal Cancer in US Adults, 2001–2023 (with Z. Wang and Y. Fu).
 :::
 
 ::: {.pub}
-Caregiving as Health Capital Depreciation: Time Allocation Evidence from IPUMS ATUS.
+Restricted-Scope Medi-Cal Enrollment Rose Sharply After California's 2026 Adult Enrollment Freeze (with Y. Fu, W. Zhang, and L. Chen).
 :::
 
 ::: {.pub}
-Falls, Missing Markets, and Labor Supply: Evidence from China.
+Balancing Innovation Incentives and Equitable Access for AI Health Technologies: Policy Levers for IP, Transparency, and Solidarity (with Y. Fu).
 :::
 
 ::: {.pub}
-Later, Longer, Fewer and the Quantity–Quality Trade-off: Evidence from CHARLS.
+Zhang, Q. How Much Care, and How Much Harm? Measuring Both After a Spouse Falls Ill.
+:::
+
+::: {.pub}
+Zhang, Q. Caregiving as Health Capital Depreciation: Time Allocation Evidence from IPUMS ATUS.
+:::
+
+::: {.pub}
+Zhang, Q. Falls, Missing Markets, and Labor Supply: Evidence from China.
+:::
+
+::: {.pub}
+Zhang, Q. Later, Longer, Fewer and the Quantity–Quality Trade-off: Evidence from CHARLS.
 :::
 :::
 
-## Conference presentations
+## Conference presentations & workshops
 
 ::: {.pub-list}
 ::: {.pub}
-Zhang, Q. (2026). Chronic versus Acute Health Shocks and the Margins of Labor Supply: Evidence from Frailty Dynamics in an Aging Population. Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 21–23, 2026.
+Zhang, Q. (2026). Working Through Frailty: Chronic versus Acute Health Shocks and the Margins of Labor Supply. Southern Economic Association (SEA) 96th Annual Meeting, session "Health and Work," Houston, TX, November 21, 2026.
 :::
 
 ::: {.pub}
-Zhang, Q. (2026). Nutritional Depletion, Not Inflammation Alone, Independently Associates with Colorectal Cancer: A 24-Year NHANES Analysis (2001–2023) with a Distinct Early-Onset Phenotype. Flash talk, International Conference on Intelligent Biology and Medicine (ICIBM) 2026, Buffalo, NY, August 2026.
+Zhang, Q. (2026). Health Insurance Design and Work Exit After Chronic Disease Onset: Harmonized Evidence from the United States, England, and China. Gateway Research Workshop on Cross-Country Comparisons (Gateway to Global Aging Data), held during the Gerontological Society of America (GSA) 2026 Annual Scientific Meeting, National Harbor, MD, November 4, 2026.
+:::
+
+::: {.pub}
+Zhang, Q. (2026). Working Through Frailty: Chronic versus Acute Health Shocks and the Margins of Labor Supply. Applied Micro Workshop, Department of Economics, University of Hawaiʻi at Mānoa, September 15, 2026.
 :::
 :::
