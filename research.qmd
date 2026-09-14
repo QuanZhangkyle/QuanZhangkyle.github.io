@@ -50,7 +50,7 @@ presentations is on the [Publications](publications.qmd) page.
 :::
 
 ::: {.working-paper}
-**Peer reviewer** — *Public Health in Practice* (Elsevier, 2026–present) and *Aging* (Aging-US, 2026); abstract reviewer for the Gerontological Society of America 2026 Annual Scientific Meeting
+**Peer reviewer** — *Public Health in Practice* (Elsevier, 2025–present) and *Aging* (Aging-US, 2026); abstract reviewer for the Gerontological Society of America 2026 Annual Scientific Meeting
 :::
 
 ## Dissertation

@@ -39,6 +39,12 @@ Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limit
 :::
 
 ::: {.pub}
+Zhang, Q. (2025). Operationalizing distributional cost-effectiveness in genomic medicine: A United States–focused comment. *Value in Health*.
+
+[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1016/j.jval.2025.09.3068){.pub-link}
+:::
+
+::: {.pub}
 Zhang, Q. (2025). On "The joint impact of greenspace and air pollution on mortality": Methodological proposals. *International Journal of Epidemiology*.
 
 [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1093/ije/dyaf224){.pub-link}
@@ -98,6 +104,14 @@ Zhang, Q. Which Diagnoses Change How Long People Think They Will Live: Cancer ag
 Zhang, Q. Definition-Dependent Burden: Classification Algorithm, Error Model, and Target Population in Measured Dementia Prevalence, United States Health and Retirement Study, 2000–2016. *Under review, International Journal of Epidemiology.*
 
 [<i class="bi bi-box-arrow-up-right"></i> SSRN](https://doi.org/10.2139/ssrn.7376478){.pub-link}
+:::
+
+::: {.pub}
+Zhang, Q. Lower PSA Density Thresholds for Biopsy Deferral After Prostate MRI in Black Men: An Early Cost-Effectiveness and Value-of-Information Analysis. *Under review, Value in Health.*
+:::
+
+::: {.pub}
+Zhang, Q. What We Count as Decline: How Measurement Choices Shape What Aging Policy Can Know. *Under review, NAM Perspectives.*
 :::
 
 ::: {.pub}
@@ -166,9 +180,5 @@ Zhang, Q. (2026). Working Through Frailty: Chronic versus Acute Health Shocks an
 
 ::: {.pub}
 Zhang, Q. (2026). Health Insurance Design and Work Exit After Chronic Disease Onset: Harmonized Evidence from the United States, England, and China. Gateway Research Workshop on Cross-Country Comparisons (Gateway to Global Aging Data), held during the Gerontological Society of America (GSA) 2026 Annual Scientific Meeting, National Harbor, MD, November 4, 2026.
-:::
-
-::: {.pub}
-Zhang, Q. (2026). Working Through Frailty: Chronic versus Acute Health Shocks and the Margins of Labor Supply. Applied Micro Workshop, Department of Economics, University of Hawaiʻi at Mānoa, September 15, 2026.
 :::
 :::
