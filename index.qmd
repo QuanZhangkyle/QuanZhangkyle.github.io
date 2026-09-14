@@ -73,62 +73,27 @@ three currently under review at Lancet-family journals.
 - International Health Economics Association (iHEA)
 - Society for Epidemiologic Research (SER)
 - Gerontological Society of America (GSA)
+- Hawaii Pacific Gerontological Society (HPGS)
 - Hawaii Economic Association (HEA)
 - Pi Gamma Mu (International Honor Society in the Social Sciences)
-
-## News
-
-::: {.news-list}
-::: {.news-item}
-[Aug 2026]{.news-date} Named collaborator-author on three **Global Burden of Disease 2023** papers now under review at *The Lancet Oncology*, *The Lancet Regional Health – Western Pacific*, and *The Lancet Primary Care*.
-:::
-
-::: {.news-item}
-[Aug 2026]{.news-date} New paper published in *npj Digital Medicine*: "Ensuring trustworthy AI assisted guideline development for clinical practice."
-:::
-
-::: {.news-item}
-[Aug 2026]{.news-date} Project accepted for the **Gateway Research Workshop on Cross-Country Comparisons**, held during the GSA 2026 Annual Scientific Meeting (National Harbor, MD, November 4, 2026).
-:::
-
-::: {.news-item}
-[Jun 2026]{.news-date} Paper accepted at the **Southern Economic Association (SEA) 96th Annual Meeting** (Houston, TX, November 21, 2026).
-:::
-
-::: {.news-item}
-[May 2026]{.news-date} New paper in *Proceedings of the National Academy of Sciences (PNAS)*: "Do Negative Social Ties Accelerate Aging in Adults, or Does Aging Erode Social Ties?"
-:::
-
-::: {.news-item}
-[Apr 2026]{.news-date} Selected for the **AWARD Network Summer Training Institute** (UCSF) — a highly competitive, NIA/NIH-funded national program (22 participants).
-:::
-:::
 
 ## Selected Publications
 
 ::: {.pub-list}
 ::: {.pub}
-Zhang, Q., & Fu, Y. (2026). Ensuring trustworthy AI assisted guideline development for clinical practice. *npj Digital Medicine*, 9(1), 661.
-
-[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1038/s41746-026-03098-z){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
+Zhang, Q., & Fu, Y. (2026). Ensuring trustworthy AI assisted guideline development for clinical practice. *npj Digital Medicine*, 9(1), 661. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1038/s41746-026-03098-z){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
 :::
 
 ::: {.pub}
-Zhang, Q. (2026). Do Negative Social Ties Accelerate Aging in Adults, or Does Aging Erode Social Ties? *Proceedings of the National Academy of Sciences (PNAS)*, 123(20), e2608036123.
-
-[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1073/pnas.2608036123){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
+Zhang, Q. (2026). Do Negative Social Ties Accelerate Aging in Adults, or Does Aging Erode Social Ties? *Proceedings of the National Academy of Sciences (PNAS)*, 123(20), e2608036123. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1073/pnas.2608036123){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
 :::
 
 ::: {.pub}
-Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limited areas. *JAMA*.
-
-[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1001/jama.2025.21041){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
+Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limited areas. *JAMA*. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1001/jama.2025.21041){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
 :::
 
 ::: {.pub}
-Zhang, Q. (2026). Keep REMS focused on safety, not as a barrier to generics. *Health Affairs*, 45(4), 451.
-
-[<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1377/hlthaff.2025.01565){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
+Zhang, Q. (2026). Keep REMS focused on safety, not as a barrier to generics. *Health Affairs*, 45(4), 451. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1377/hlthaff.2025.01565){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
 :::
 :::
 

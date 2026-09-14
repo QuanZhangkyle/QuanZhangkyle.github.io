@@ -9,8 +9,8 @@ NHANES, IPUMS) and quasi-experimental designs — difference-in-differences with
 staggered adoption, event-study and panel methods, instrumental variables,
 regression discontinuity, and double/debiased machine learning.
 
-The full list of papers — published, under review, and in progress — and conference
-presentations is on the [Publications](publications.qmd) page.
+The full list of papers and conference presentations is on the
+[Publications](publications.qmd) page.
 
 ## Research interests
 
