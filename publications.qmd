@@ -57,6 +57,10 @@ GBD 2023 Western Pacific WHO AMR Collaborators. The Burden of Bacterial Antimicr
 ::: {.pub}
 GBD 2023 Type 1 Diabetes Collaborators. Global, Regional, and National Type 1 Diabetes Burden: A Systematic Analysis of the Global Burden of Disease Study 2023. *Under review, The Lancet Primary Care.*
 :::
+
+::: {.pub}
+GBD 2023 Alzheimer's Collaborators. Global, Regional, and National Burden of Alzheimer's Disease and Other Dementias in 204 Countries and Territories, 1990–2023, with Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023. *Under review, The Lancet.*
+:::
 :::
 
 ## Book chapters

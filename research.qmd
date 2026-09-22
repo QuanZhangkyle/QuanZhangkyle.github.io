@@ -36,7 +36,7 @@ The full list of papers and conference presentations is on the
 :::
 
 ::: {.working-paper}
-**Collaborator & peer reviewer — Global Burden of Disease Study 2023**, IHME, University of Washington (2025–present). Peer reviewer for nine GBD 2023 estimation manuscripts, and named collaborator-author on three of them now under review at *The Lancet Oncology*, *The Lancet Regional Health – Western Pacific*, and *The Lancet Primary Care*:
+**Senior Collaborator & peer reviewer — Global Burden of Disease Study 2023**, IHME, University of Washington (2025–present; Senior Collaborator since September 2026). Peer reviewer for nine GBD 2023 estimation manuscripts, and named collaborator-author on four of them now under review at *The Lancet*, *The Lancet Oncology*, *The Lancet Regional Health – Western Pacific*, and *The Lancet Primary Care*:
 
 1. Global Type 1 Diabetes — *collaborator-author*
 2. Antimicrobial Resistance — WHO Western Pacific Region — *collaborator-author*
@@ -44,7 +44,7 @@ The full list of papers and conference presentations is on the
 4. Global Environmental Exposures
 5. Global Dietary Risks
 6. Global Ageing and Non-Communicable Diseases
-7. Global Alzheimer's Disease & Other Dementias
+7. Global Alzheimer's Disease & Other Dementias — *collaborator-author*
 8. Global Stroke
 9. Global Ageing and Inequality
 :::

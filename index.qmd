@@ -25,11 +25,11 @@ supply, disaster health economics, and health equity — working with longitudin
 microdata such as CHARLS, HRS, and SHARE in R, Python, SQL, and Stata.
 
 As a researcher at UHERO, I contribute to the NIH- and state-funded Maui Wildfire
-Exposure Study (MauiWES). I am also an invited collaborator and peer
+Exposure Study (MauiWES). I am also a Senior Collaborator and peer
 reviewer for the Global Burden of Disease Study 2023 at the Institute for Health
 Metrics and Evaluation (IHME), University of Washington, where I have reviewed
 nine GBD 2023 estimation manuscripts and hold named collaborator-authorship on
-three currently under review at Lancet-family journals.
+four currently under review at Lancet-family journals.
 :::
 
 ## Methods & Tools
