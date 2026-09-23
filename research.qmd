@@ -4,7 +4,7 @@ pagetitle: "Research — Quan (Kyle) Zhang"
 ---
 
 My work applies **causal inference and applied econometrics** to questions in
-health and aging, using large-scale longitudinal microdata (CHARLS, HRS, SHARE,
+health, labor, and aging, using large-scale longitudinal microdata (CHARLS, HRS, SHARE,
 NHANES, IPUMS) and quasi-experimental designs — difference-in-differences with
 staggered adoption, event-study and panel methods, instrumental variables,
 regression discontinuity, and double/debiased machine learning.
@@ -14,11 +14,11 @@ The full list of papers and conference presentations is on the
 
 ## Research interests
 
-- Health economics and policy
-- Causal inference and applied econometrics for health and social outcomes
-- Population aging, frailty dynamics, and the joint determination of health and labor supply over the life course
-- Disaster health economics and community resilience
-- Health equity, quantitative health sciences, and clinical research methodology
+- Health and labor economics: how health shocks change work and retirement
+- Economics of aging and the family, including frailty dynamics over the life course
+- Causal inference and applied econometrics
+- Health policy, health equity, and clinical research methodology
+- Disaster recovery and community resilience
 
 ## Research positions & projects
 

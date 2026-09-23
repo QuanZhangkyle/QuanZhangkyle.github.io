@@ -10,7 +10,7 @@ project:
 
 website:
   title: "Quan Zhang"
-  description: "Quan (Kyle) Zhang — health economist and data scientist at the University of Hawaiʻi at Mānoa. Causal inference, population aging, and health equity."
+  description: "Quan (Kyle) Zhang — economist and data scientist at the University of Hawaiʻi at Mānoa. Causal inference, health, labor, and aging."
   site-url: https://quanzhang.org
   favicon: assets/favicon.svg
   open-graph: true
