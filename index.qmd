@@ -24,12 +24,14 @@ engineering to study population aging, frailty dynamics, health shocks and labor
 supply, disaster health economics, and health equity — working with longitudinal
 microdata such as CHARLS, HRS, and SHARE in R, Python, SQL, and Stata.
 
-As a researcher at UHERO, I contribute to the NIH- and state-funded Maui Wildfire
-Exposure Study (MauiWES). I am also a Senior Collaborator and peer
-reviewer for the Global Burden of Disease Study 2023 at the Institute for Health
-Metrics and Evaluation (IHME), University of Washington, where I have reviewed
-nine GBD 2023 estimation manuscripts and hold named collaborator-authorship on
-four currently under review at Lancet-family journals.
+I am a Senior Collaborator and peer reviewer for the Global Burden of Disease
+Study 2023 at the Institute for Health Metrics and Evaluation (IHME), University
+of Washington, where I have reviewed nine GBD 2023 estimation manuscripts and
+hold named collaborator-authorship on four currently under review at
+Lancet-family journals. As a graduate research assistant at UHERO, I support
+community health and program-evaluation projects in Hawaiʻi, including data
+collection and descriptive analysis for the NIH- and state-funded Maui Wildfire
+Exposure Study (MauiWES).
 :::
 
 ## Methods & Tools
@@ -89,7 +91,7 @@ Zhang, Q. (2026). Do Negative Social Ties Accelerate Aging in Adults, or Does Ag
 :::
 
 ::: {.pub}
-Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limited areas. *JAMA*. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1001/jama.2025.21041){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
+Zhang, Q. (2026). Overcoming bias in a fall prevention program in resource-limited areas. *JAMA*, 335(4), 370–371. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1001/jama.2025.21041){.pub-link} [<i class="bi bi-mortarboard-fill"></i> Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ){.pub-link}
 :::
 
 ::: {.pub}

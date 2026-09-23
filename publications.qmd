@@ -25,15 +25,15 @@ Zhang, Q. (2026). Enhancing life-course analyses of financial disadvantage and d
 :::
 
 ::: {.pub}
-Zhang, Q. (2025). Overcoming bias in a fall prevention program in resource-limited areas. *JAMA*. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1001/jama.2025.21041){.pub-link}
+Zhang, Q. (2026). Overcoming bias in a fall prevention program in resource-limited areas. *JAMA*, 335(4), 370–371. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1001/jama.2025.21041){.pub-link}
 :::
 
 ::: {.pub}
-Zhang, Q. (2025). Operationalizing distributional cost-effectiveness in genomic medicine: A United States–focused comment. *Value in Health*. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1016/j.jval.2025.09.3068){.pub-link}
+Zhang, Q. (2026). Operationalizing distributional cost-effectiveness in genomic medicine: A United States–focused comment. *Value in Health*, 29(1), 172–173. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1016/j.jval.2025.09.3068){.pub-link}
 :::
 
 ::: {.pub}
-Zhang, Q. (2025). On "The joint impact of greenspace and air pollution on mortality": Methodological proposals. *International Journal of Epidemiology*. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1093/ije/dyaf224){.pub-link}
+Zhang, Q. (2026). On "The joint impact of greenspace and air pollution on mortality": Methodological proposals. *International Journal of Epidemiology*, 55(1), dyaf224. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1093/ije/dyaf224){.pub-link}
 :::
 
 ::: {.pub}
