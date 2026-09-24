@@ -16,7 +16,7 @@ The full list of papers and conference presentations is on the
 
 - Health and labor economics: how health shocks change work and retirement
 - Economics of aging and the family, including frailty dynamics over the life course
-- Causal inference and applied econometrics
+- Causal inference in economics and epidemiology
 - Health policy, health equity, and clinical research methodology
 - Disaster recovery and community resilience
 

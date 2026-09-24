@@ -49,7 +49,7 @@ Exposure Study (MauiWES).
 
 - Health and labor economics: health shocks, work, and retirement
 - Economics of aging and the family
-- Causal inference and applied econometrics
+- Causal inference in economics and epidemiology
 - Health policy, health equity, and the global burden of disease
 - Disaster recovery and community resilience
 
