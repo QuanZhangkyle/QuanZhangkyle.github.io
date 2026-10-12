@@ -9,6 +9,10 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=lWeyFo4AA
 
 ::: {.pub-list}
 ::: {.pub}
+Yuan, K., Ye, Y., Zhou, X., Gu, Y., Jiang, Y., Yin, S., **Zhang, Q.**, Yang, H., Sang, X., Jiang, L., Zhuang, Z., Xu, K., & Huang, S. (2026). Integrated multi-omics and machine learning analyses to improve and explore molecular subtypes and immune profiles of primary hepatocellular carcinoma. *Discover Oncology*. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1007/s12672-026-05955-5){.pub-link}
+:::
+
+::: {.pub}
 Zhang, Q., & Fu, Y. (2026). Ensuring trustworthy AI assisted guideline development for clinical practice. *npj Digital Medicine*, 9(1), 661. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1038/s41746-026-03098-z){.pub-link}
 :::
 
@@ -67,7 +71,7 @@ GBD 2023 Alzheimer's Collaborators. Global, Regional, and National Burden of Alz
 
 ::: {.pub-list}
 ::: {.pub}
-Zhang, Q. (forthcoming). Social Determinants of Health and Multidimensional Poverty. In R. Baikady (Ed.), *The Palgrave Encyclopedia of Concepts and Theories in the Context of Global Poverty*. Palgrave Macmillan / Springer Nature.
+Zhang, Q. (2026). Social Determinants of Health and Multidimensional Poverty. In R. Baikady (Ed.), *The Palgrave Encyclopedia of Concepts and Theories in the Context of Global Poverty*. Palgrave Macmillan / Springer Nature. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1007/978-981-95-6491-0_100-1){.pub-link}
 :::
 
 ::: {.pub}
