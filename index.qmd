@@ -43,7 +43,7 @@ Exposure Study (MauiWES).
 
 **Machine learning** — causal forests, double/debiased machine learning, penalized regression (elastic net), cross-validation, etc.
 
-**Quantitative health sciences** — frailty index construction (deficit accumulation), survival analysis (Cox models), psychometric scale scoring, survey questionnaire design (Qualtrics), cost–outcome analysis, etc.
+**Quantitative health sciences** — frailty index construction (deficit accumulation), survival analysis (Cox models), cost-effectiveness and value-of-information analysis, psychometric scale scoring, survey questionnaire design (Qualtrics), etc.
 
 **Programming & tools** — R (primary: data processing, modeling, visualization with ggplot2, reproducible workflows); working knowledge of SQL and Tableau; Git; with AI-assisted coding, quickly picks up other tools, such as Python, SAS, Stata, etc.
 
