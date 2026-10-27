@@ -3,27 +3,39 @@ title: "Research"
 pagetitle: "Research — Quan (Kyle) Zhang"
 ---
 
-My work applies **causal inference and applied econometrics** to questions in
-health, labor, and aging, using large-scale longitudinal microdata (CHARLS, HRS, SHARE,
-NHANES, IPUMS) and quasi-experimental designs — difference-in-differences with
-staggered adoption, event-study and panel methods, instrumental variables,
-regression discontinuity, and double/debiased machine learning.
+My research centers on aging and health, especially frailty: how health declines with
+age, how to measure that decline, and how gradual decline differs from acute health
+shocks. I apply **econometric and biostatistical methods** to large aging panels and
+health surveys (HRS, ELSA, SHARE, CHARLS, NHANES) and contribute to the Global Burden
+of Disease Study. My methods include difference-in-differences with staggered adoption,
+event-study and panel methods, survival analysis, multiple imputation, g-computation,
+complex-survey weighting, and double/debiased machine learning.
 
 The full list of papers and conference presentations is on the
 [Publications](publications.qmd) page.
 
 ## Research interests
 
-- Health and labor economics: how health shocks change work and retirement
-- Economics of aging and the family, including frailty dynamics over the life course
-- Causal inference and applied econometrics
-- Health policy, health equity, and clinical research methodology
+- Applied economics of aging and health, centered on frailty indices
+- Gradual frailty in later life versus acute health shocks
+- Causal inference, applied econometrics, and biostatistics for panel and survey data
+- Measuring health and longevity: biomarkers, dementia case definitions, survival expectations
+- Global burden of disease, health policy, and health equity
+- Quantitative health sciences and clinical research methodology: cost-effectiveness and value-of-information analysis, psychometrics, survival analysis, cancer-registry cohorts
 - Disaster recovery and community resilience
 
 ## Research positions & projects
 
 ::: {.working-paper}
-**Researcher — UHERO**, University of Hawaiʻi at Mānoa (2024–present)
+**Senior Collaborator & peer reviewer — Global Burden of Disease Study 2023**, IHME, University of Washington (2025–present; Senior Collaborator since September 2026). Peer-reviewed ten GBD 2023 estimation manuscripts on cancer, cardiovascular and neurodegenerative disease, metabolic disease, mental disorders, dietary and environmental risks, antimicrobial resistance, and population ageing. Co-author, under the GBD collaborators' group authorship, of six GBD 2023 papers now under review at *The Lancet*, *The Lancet Public Health*, *The Lancet Oncology*, *The Lancet Regional Health – Western Pacific*, and *The Lancet Primary Care* (see [Publications](publications.qmd)).
+:::
+
+::: {.working-paper}
+**Research Allied Health Professional — The Queen's Medical Center**, Honolulu (2025–2026). Built and audited an analytic colorectal-cancer cohort from the hospital cancer registry (2010–2024) for an IRB-approved study, and estimated disparities in early-onset diagnosis, stage, and survival with logistic and Cox models benchmarked against SEER, in collaboration with the Department of Quantitative Health Sciences, John A. Burns School of Medicine.
+:::
+
+::: {.working-paper}
+**Graduate Research Assistant — UHERO**, University of Hawaiʻi at Mānoa (2024–present)
 
 - *Maui Wildfire Exposure Study (MauiWES)* — NIH- and state-funded longitudinal cohort; data entry, on-site support at data-collection events, and descriptive analyses (2024–present).
 - *Kaiona Survey Project* — youth health and well-being survey and program evaluation, in partnership with Waiʻanae Coast Comprehensive Health Center (2025–present).
@@ -32,26 +44,7 @@ The full list of papers and conference presentations is on the
 :::
 
 ::: {.working-paper}
-**Research Allied Health Professional — The Queen's Medical Center**, Honolulu (2025–present). Data collection and analysis for an IRB-approved colorectal cancer study, in collaboration with the Department of Quantitative Health Sciences, John A. Burns School of Medicine.
-:::
-
-::: {.working-paper}
-**Senior Collaborator & peer reviewer — Global Burden of Disease Study 2023**, IHME, University of Washington (2025–present; Senior Collaborator since September 2026). Peer reviewer for ten GBD 2023 estimation manuscripts, and named collaborator-author on six of them now under review at *The Lancet*, *The Lancet Public Health*, *The Lancet Oncology*, *The Lancet Regional Health – Western Pacific*, and *The Lancet Primary Care*:
-
-1. Global Type 1 Diabetes — *collaborator-author*
-2. Antimicrobial Resistance — WHO Western Pacific Region — *collaborator-author*
-3. Global Colon & Rectum Cancer — *collaborator-author*
-4. Global Environmental Exposures
-5. Global Dietary Risks — *collaborator-author*
-6. Global Ageing and Non-Communicable Diseases — *collaborator-author*
-7. Global Alzheimer's Disease & Other Dementias — *collaborator-author*
-8. Global Stroke
-9. Global Ageing and Inequality
-10. Global Mental Disorders in Youth
-:::
-
-::: {.working-paper}
-**Peer reviewer** — *Public Health in Practice* (Elsevier, 2025–present) and *Aging* (Aging-US, 2026); abstract reviewer for the Gerontological Society of America 2026 Annual Scientific Meeting
+**Peer reviewer** — *Public Health in Practice* (Elsevier, 2025–present) and *Aging* (2026); abstract reviewer for the Gerontological Society of America 2026 Annual Scientific Meeting; reviewer, University of Hawaiʻi at Mānoa Graduate Student Organization Merit-Based Awards (2026).
 :::
 
 ## Dissertation

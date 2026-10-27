@@ -45,37 +45,7 @@ Zhang, Q. (2025). Re: Khodakarami et al, "Exploring neighborhood opportunity as 
 :::
 :::
 
-## Global Burden of Disease 2023 — collaborative publications
-
-*Named collaborator-author under group authorship, Institute for Health Metrics and Evaluation (IHME).*
-
-::: {.pub-list}
-::: {.pub}
-GBD 2023 Colon and Rectum Cancer Collaborators. Global, Regional, and National Burden of Colon and Rectum Cancer from 1990 to 2023, with Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023. *Under review, The Lancet Oncology.*
-:::
-
-::: {.pub}
-GBD 2023 Western Pacific WHO AMR Collaborators. The Burden of Bacterial Antimicrobial Resistance in the WHO Region of the Western Pacific: A Cross-Country Systematic Analysis. *Under review, The Lancet Regional Health – Western Pacific.*
-:::
-
-::: {.pub}
-GBD 2023 Type 1 Diabetes Collaborators. Global, Regional, and National Type 1 Diabetes Burden: A Systematic Analysis of the Global Burden of Disease Study 2023. *Under review, The Lancet Primary Care.*
-:::
-
-::: {.pub}
-GBD 2023 Alzheimer's Collaborators. Global, Regional, and National Burden of Alzheimer's Disease and Other Dementias in 204 Countries and Territories, 1990–2023, with Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023. *Revised version under review, The Lancet.*
-:::
-
-::: {.pub}
-GBD 2023 Diet Collaborators. Global, Regional, and National Disease Burden Attributable to Dietary Risks among Adults 25 Years and Older, 1990–2023: A Systematic Analysis for the Global Burden of Disease Study 2023. *Revised version under review, The Lancet Public Health.*
-:::
-
-::: {.pub}
-GBD Non-communicable Diseases Collaborators. Global Patterns, Trends, and Cross-Country Inequality in Non-Communicable Diseases and the Impact of Population Ageing: A Systematic Analysis for the Global Burden of Disease Study 2023. *Revised version under review, The Lancet Public Health.*
-:::
-:::
-
-## Book chapters
+## Invited book chapters
 
 ::: {.pub-list}
 ::: {.pub}
@@ -84,6 +54,36 @@ Zhang, Q. (2026). Social Determinants of Health and Multidimensional Poverty. In
 
 ::: {.pub}
 Zhang, Q. (under review). Multidimensional Poverty Index (MPI): Measurement, Health Deprivations, and Policy Use. In R. Baikady (Ed.), *The Palgrave Encyclopedia of Global Poverty Research*. Palgrave Macmillan / Springer Nature.
+:::
+:::
+
+## Global Burden of Disease 2023 — collaborative papers (under review)
+
+*Co-authored under the GBD collaborators' group authorship, Institute for Health Metrics and Evaluation (IHME).*
+
+::: {.pub-list}
+::: {.pub}
+GBD 2023 Colon and Rectum Cancer Collaborators. Global, Regional, and National Burden of Colon and Rectum Cancer from 1990 to 2023, with Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023. *Under review, The Lancet Oncology.* (IHME ID: 4219.)
+:::
+
+::: {.pub}
+GBD 2023 Western Pacific WHO AMR Collaborators. The Burden of Bacterial Antimicrobial Resistance in the WHO Region of the Western Pacific: A Cross-Country Systematic Analysis. *Under review, The Lancet Regional Health – Western Pacific.* (IHME ID: 4006.)
+:::
+
+::: {.pub}
+GBD 2023 Type 1 Diabetes Collaborators. Global, Regional, and National Type 1 Diabetes Burden: A Systematic Analysis of the Global Burden of Disease Study 2023. *Under review, The Lancet Primary Care.* (IHME ID: 5338.)
+:::
+
+::: {.pub}
+GBD 2023 Alzheimer's Collaborators. Global, Regional, and National Burden of Alzheimer's Disease and Other Dementias in 204 Countries and Territories, 1990–2023, with Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023. *Revised version under review, The Lancet.* (IHME ID: 6217.)
+:::
+
+::: {.pub}
+GBD 2023 Diet Collaborators. Global, Regional, and National Disease Burden Attributable to Dietary Risks among Adults 25 Years and Older, 1990–2023: A Systematic Analysis for the Global Burden of Disease Study 2023. *Revised version under review, The Lancet Public Health.* (IHME ID: 6115.)
+:::
+
+::: {.pub}
+GBD Non-communicable Diseases Collaborators. Global Patterns, Trends, and Cross-Country Inequality in Non-Communicable Diseases and the Impact of Population Ageing: A Systematic Analysis for the Global Burden of Disease Study 2023. *Revised version under review, The Lancet Public Health.* (IHME ID: 5410.)
 :::
 :::
 
