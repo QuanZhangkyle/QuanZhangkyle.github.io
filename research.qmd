@@ -3,26 +3,25 @@ title: "Research"
 pagetitle: "Research — Quan (Kyle) Zhang"
 ---
 
-My research centers on aging and health, especially frailty: how health declines with
-age, how to measure that decline, and how gradual decline differs from acute health
-shocks. I apply **econometric and biostatistical methods** to large aging panels and
-health surveys (HRS, ELSA, SHARE, CHARLS, NHANES) and contribute to the Global Burden
-of Disease Study. My methods include difference-in-differences with staggered adoption,
-event-study and panel methods, survival analysis, multiple imputation, g-computation,
-complex-survey weighting, and double/debiased machine learning.
+My research measures health and aging with quantitative indicators, such as frailty
+indices and biomarker burden scores, and tests how measurement choices change results.
+A central aim is to develop new, validated measures that other researchers can adopt
+and build on. I then estimate causal effects as credibly as observational data allow,
+combining **econometric and biostatistical methods**: modern difference-in-differences,
+causal machine learning, causal mediation analysis, and sensitivity analysis.
 
 The full list of papers and conference presentations is on the
 [Publications](publications.qmd) page.
 
 ## Research interests
 
-- Applied economics of aging and health, centered on frailty indices
-- Gradual frailty in later life versus acute health shocks
-- Causal inference, applied econometrics, and biostatistics for panel and survey data
-- Measuring health and longevity: biomarkers, dementia case definitions, survival expectations
+- Quantitative health indicators, such as frailty indices, that combine many survey items and biomarkers into one score
+- Developing and validating new health measures as tools for future research
+- Causal inference: modern difference-in-differences, event studies, and sensitivity analysis for unmeasured confounding
+- Causal mediation analysis and causal machine learning: pathways and who is affected most
+- Applied econometrics and biostatistics for large national panels and health surveys
 - Global burden of disease, health policy, and health equity
-- Quantitative health sciences and clinical research methodology: cost-effectiveness and value-of-information analysis, psychometrics, survival analysis, cancer-registry cohorts
-- Disaster recovery and community resilience
+- Quantitative health sciences and clinical research methodology
 
 ## Research positions & projects
 

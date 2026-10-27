@@ -1,7 +1,7 @@
 ---
 title: ""
 pagetitle: "Quan (Kyle) Zhang — Economist"
-description: "Quan (Kyle) Zhang — applied economist and data scientist at the University of Hawaiʻi at Mānoa. Econometrics and biostatistics for aging and health: frailty, health measurement, and the global burden of disease."
+description: "Quan (Kyle) Zhang — applied economist and data scientist at the University of Hawaiʻi at Mānoa. Quantitative health indicators and causal inference."
 ---
 
 ::: {.name-block}
@@ -19,11 +19,11 @@ description: "Quan (Kyle) Zhang — applied economist and data scientist at the 
 I am an applied economist and data scientist at the University of Hawaiʻi at Mānoa,
 trained in economics (Quantitative Economics & Econometrics) and in biostatistics and
 quantitative health sciences at the John A. Burns School of Medicine. My research
-centers on aging and health, especially frailty: how to measure decline with frailty
-indices and other health measures, and how gradual decline differs from acute health
-shocks. I use causal inference, applied econometrics, biostatistics, and machine
-learning on large aging panels and health surveys (HRS, ELSA, SHARE, CHARLS, NHANES),
-working mainly in R, with SQL, Stata, and Python.
+builds quantitative indicators of health and aging, such as frailty indices, and aims
+to develop new, validated measures that other researchers can adopt and build on. To
+estimate causal effects as credibly as the data allow, I use quasi-experimental
+designs, causal machine learning, and causal mediation analysis, working mainly in R,
+with SQL, Stata, and Python.
 
 I am a Senior Collaborator and peer reviewer for the Global Burden of Disease
 Study 2023 at the Institute for Health Metrics and Evaluation (IHME), University
@@ -49,13 +49,13 @@ Exposure Study (MauiWES).
 
 ## Research Interests
 
-- Applied economics of aging and health, centered on frailty indices
-- Gradual frailty in later life versus acute health shocks
-- Causal inference, applied econometrics, and biostatistics for panel and survey data
-- Measuring health and longevity: biomarkers, dementia case definitions, survival expectations
+- Quantitative health indicators, such as frailty indices, that combine many survey items and biomarkers into one score
+- Developing and validating new health measures as tools for future research
+- Causal inference: modern difference-in-differences, event studies, and sensitivity analysis for unmeasured confounding
+- Causal mediation analysis and causal machine learning: pathways and who is affected most
+- Applied econometrics and biostatistics for large national panels and health surveys
 - Global burden of disease, health policy, and health equity
-- Quantitative health sciences and clinical research methodology: cost-effectiveness and value-of-information analysis, psychometrics, survival analysis, cancer-registry cohorts
-- Disaster recovery and community resilience
+- Quantitative health sciences and clinical research methodology
 
 ## Education
 
