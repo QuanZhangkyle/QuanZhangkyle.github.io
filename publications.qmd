@@ -63,7 +63,15 @@ GBD 2023 Type 1 Diabetes Collaborators. Global, Regional, and National Type 1 Di
 :::
 
 ::: {.pub}
-GBD 2023 Alzheimer's Collaborators. Global, Regional, and National Burden of Alzheimer's Disease and Other Dementias in 204 Countries and Territories, 1990–2023, with Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023. *Under review, The Lancet.*
+GBD 2023 Alzheimer's Collaborators. Global, Regional, and National Burden of Alzheimer's Disease and Other Dementias in 204 Countries and Territories, 1990–2023, with Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023. *Revised version under review, The Lancet.*
+:::
+
+::: {.pub}
+GBD 2023 Diet Collaborators. Global, Regional, and National Disease Burden Attributable to Dietary Risks among Adults 25 Years and Older, 1990–2023: A Systematic Analysis for the Global Burden of Disease Study 2023. *Revised version under review, The Lancet Public Health.*
+:::
+
+::: {.pub}
+GBD Non-communicable Diseases Collaborators. Global Patterns, Trends, and Cross-Country Inequality in Non-Communicable Diseases and the Impact of Population Ageing: A Systematic Analysis for the Global Burden of Disease Study 2023. *Revised version under review, The Lancet Public Health.*
 :::
 :::
 

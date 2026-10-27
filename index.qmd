@@ -25,8 +25,8 @@ longitudinal microdata such as HRS, CHARLS, and SHARE in R, Python, SQL, and Sta
 
 I am a Senior Collaborator and peer reviewer for the Global Burden of Disease
 Study 2023 at the Institute for Health Metrics and Evaluation (IHME), University
-of Washington, where I have reviewed nine GBD 2023 estimation manuscripts and
-hold named collaborator-authorship on four currently under review at
+of Washington, where I have reviewed ten GBD 2023 estimation manuscripts and
+hold named collaborator-authorship on six currently under review at
 Lancet-family journals. As a graduate research assistant at UHERO, I support
 community health and program-evaluation projects in Hawaiʻi, including data
 collection and descriptive analysis for the NIH- and state-funded Maui Wildfire
