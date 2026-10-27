@@ -22,8 +22,7 @@ quantitative health sciences at the John A. Burns School of Medicine. My researc
 builds quantitative indicators of health and aging, such as frailty indices, and aims
 to develop new, validated measures that other researchers can adopt and build on. To
 estimate causal effects as credibly as the data allow, I use quasi-experimental
-designs, causal machine learning, and causal mediation analysis, working mainly in R,
-with SQL, Stata, and Python.
+designs, causal machine learning, and causal mediation analysis, working mainly in R.
 
 I am a Senior Collaborator and peer reviewer for the Global Burden of Disease
 Study 2023 at the Institute for Health Metrics and Evaluation (IHME), University
@@ -38,13 +37,17 @@ Exposure Study (MauiWES).
 ## Methods & Tools
 
 ::: {.skills}
-**Machine learning & data science** — gradient boosting (XGBoost), random forests, LASSO/elastic net, causal forests & heterogeneous treatment effects, double/debiased ML (DML), survival models, multiple imputation (MICE), etc.
+**Statistical methods** — generalized linear models (including logistic and penalized logistic regression), panel models with fixed effects, sampling methods for complex surveys, multiple imputation, mediation analysis, power and equivalence testing, etc.
 
-**Causal inference & econometrics** — difference-in-differences (DiD, incl. staggered adoption), instrumental variables (IV/2SLS), event-study & panel methods, regression discontinuity (RDD), synthetic control, etc.
+**Causal inference** — staggered difference-in-differences and event studies, instrumental variables, regression discontinuity, matching and inverse-probability weighting, g-computation, sensitivity analysis (E-values), etc.
 
-**Biostatistics & bioinformatics** — survival analysis (Cox PH, Kaplan–Meier, AFT), mixed-effects & longitudinal models, biomarker and genotype–phenotype analysis, frailty-index construction, IRT/CFA psychometrics, cost-effectiveness analysis (CEA/DCEA), meta-analysis, etc.
+**Machine learning** — causal forests, double/debiased machine learning, penalized regression (elastic net), cross-validation, etc.
 
-**Programming & software** — R, Python, SQL, Stata; Git, Bash, LaTeX; high-performance computing (HPC); reproducible data pipelines over CHARLS, HRS, SHARE, NHANES, IPUMS, GBD, etc.
+**Quantitative health sciences** — frailty index construction (deficit accumulation), survival analysis (Cox models), psychometric scale scoring, survey questionnaire design (Qualtrics), cost–outcome analysis, etc.
+
+**Programming & tools** — R (primary: data processing, modeling, visualization with ggplot2, reproducible workflows); working knowledge of SQL and Tableau; Git; with AI-assisted coding, quickly picks up other tools, such as Python, SAS, Stata, etc.
+
+**Data** — national aging panels (HRS, ELSA, SHARE, CHARLS); NHANES, MEPS, IPUMS; SEER; hospital cancer-registry data, etc.
 :::
 
 ## Research Interests
@@ -61,7 +64,7 @@ Exposure Study (MauiWES).
 
 - **PhD in Economics** (Quantitative Economics & Econometrics), University of Hawaiʻi at Mānoa, expected December 2027
 - **MS in Quantitative Health and Clinical Research**, John A. Burns School of Medicine, University of Hawaiʻi at Mānoa, December 2026
-- **MA in Economics** (en route to PhD), University of Hawaiʻi at Mānoa, May 2026
+- **MA in Economics**, University of Hawaiʻi at Mānoa, May 2026
 
 ## Awards & Honors
 
