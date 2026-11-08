@@ -5,9 +5,13 @@ pagetitle: "Publications — Quan (Kyle) Zhang"
 
 See also my [Google Scholar](https://scholar.google.com/citations?user=lWeyFo4AAAAJ), [ORCID](https://orcid.org/0009-0009-2409-309X), and [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11462228) profiles.
 
-## Peer-reviewed articles & commentaries
+## Peer-reviewed publications
 
 ::: {.pub-list}
+::: {.pub}
+WPR Antimicrobial Resistance Collaborators (2026). The burden of bacterial antimicrobial resistance in the WHO Western Pacific Region 1990–2021: A cross-country systematic analysis with forecasts to 2050. *The Lancet Regional Health – Western Pacific*, 75, 101997. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1016/j.lanwpc.2026.101997){.pub-link}
+:::
+
 ::: {.pub}
 Yuan, K., Ye, Y., Zhou, X., Gu, Y., Jiang, Y., Yin, S., **Zhang, Q.**, Yang, H., Sang, X., Jiang, L., Zhuang, Z., Xu, K., & Huang, S. (2026). Integrated multi-omics and machine learning analyses to improve and explore molecular subtypes and immune profiles of primary hepatocellular carcinoma. *Discover Oncology*. [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1007/s12672-026-05955-5){.pub-link}
 :::
@@ -57,15 +61,11 @@ Zhang, Q. (under review). Multidimensional Poverty Index (MPI): Measurement, Hea
 :::
 :::
 
-## Global Burden of Disease 2023 — collaborative papers
+## Global Burden of Disease 2023 — collaborative papers (under review)
 
 *Co-authored under the GBD collaborators' group authorship, Institute for Health Metrics and Evaluation (IHME).*
 
 ::: {.pub-list}
-::: {.pub}
-WPR Antimicrobial Resistance Collaborators \[229 co-authors, including **Zhang, Q.**\] (2026). The burden of bacterial antimicrobial resistance in the WHO Western Pacific Region 1990–2021: A cross-country systematic analysis with forecasts to 2050. *The Lancet Regional Health – Western Pacific*, 75, 101997. (IHME ID: 4006.) [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1016/j.lanwpc.2026.101997){.pub-link}
-:::
-
 ::: {.pub}
 GBD 2023 Colon and Rectum Cancer Collaborators. Global, Regional, and National Burden of Colon and Rectum Cancer from 1990 to 2023, with Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023. *Under review, The Lancet Oncology.* (IHME ID: 4219.)
 :::
