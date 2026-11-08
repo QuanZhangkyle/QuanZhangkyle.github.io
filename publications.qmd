@@ -91,7 +91,7 @@ GBD Non-communicable Diseases Collaborators. Global Patterns, Trends, and Cross-
 
 ::: {.pub-list}
 ::: {.pub}
-Zhang, Q. Working Through Frailty: Chronic versus Acute Health Shocks and the Margins of Labor Supply. *To be presented at the Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 2026.* [<i class="bi bi-box-arrow-up-right"></i> SSRN](https://doi.org/10.2139/ssrn.7376080){.pub-link}
+Zhang, Q. Working Through Frailty: Chronic versus Acute Health Shocks and the Margins of Labor Supply. *To be presented at the Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 2026.*
 :::
 
 ::: {.pub}
@@ -107,7 +107,7 @@ Zhang, Q. Health Shocks and the Permanent Labor-Market Exit of Older Europeans.
 :::
 
 ::: {.pub}
-Nutritional Depletion, Inflammation, and Colorectal Cancer in US Adults, 2001–2023 (with Z. Wang and Y. Fu).
+Nutritional Depletion, Inflammation, and Colorectal Cancer in US Adults, 2001–2023.
 :::
 :::
 
