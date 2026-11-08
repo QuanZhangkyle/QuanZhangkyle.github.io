@@ -26,9 +26,10 @@ designs, causal machine learning, and causal mediation analysis, working mainly 
 
 I am a Senior Collaborator and peer reviewer for the Global Burden of Disease
 Study 2023 at the Institute for Health Metrics and Evaluation (IHME), University
-of Washington, where I have reviewed ten GBD 2023 estimation manuscripts and
-am a co-author, under group authorship, of six papers now under review at
-Lancet-family journals. At UHERO, I support
+of Washington, where I have reviewed 13 GBD 2023 estimation manuscripts and
+am a co-author, under group authorship, of six papers for Lancet-family
+journals: one published in *The Lancet Regional Health – Western Pacific*
+(2026) and five under review. At UHERO, I support
 community health and program-evaluation projects in Hawaiʻi, including data
 collection and descriptive analysis for the NIH- and state-funded Maui Wildfire
 Exposure Study (MauiWES).

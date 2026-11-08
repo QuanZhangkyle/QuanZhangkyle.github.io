@@ -57,17 +57,17 @@ Zhang, Q. (under review). Multidimensional Poverty Index (MPI): Measurement, Hea
 :::
 :::
 
-## Global Burden of Disease 2023 — collaborative papers (under review)
+## Global Burden of Disease 2023 — collaborative papers
 
 *Co-authored under the GBD collaborators' group authorship, Institute for Health Metrics and Evaluation (IHME).*
 
 ::: {.pub-list}
 ::: {.pub}
-GBD 2023 Colon and Rectum Cancer Collaborators. Global, Regional, and National Burden of Colon and Rectum Cancer from 1990 to 2023, with Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023. *Under review, The Lancet Oncology.* (IHME ID: 4219.)
+WPR Antimicrobial Resistance Collaborators \[229 co-authors, including **Zhang, Q.**\] (2026). The burden of bacterial antimicrobial resistance in the WHO Western Pacific Region 1990–2021: A cross-country systematic analysis with forecasts to 2050. *The Lancet Regional Health – Western Pacific*, 75, 101997. (IHME ID: 4006.) [<i class="bi bi-box-arrow-up-right"></i> DOI](https://doi.org/10.1016/j.lanwpc.2026.101997){.pub-link}
 :::
 
 ::: {.pub}
-GBD 2023 Western Pacific WHO AMR Collaborators. The Burden of Bacterial Antimicrobial Resistance in the WHO Region of the Western Pacific: A Cross-Country Systematic Analysis. *Under review, The Lancet Regional Health – Western Pacific.* (IHME ID: 4006.)
+GBD 2023 Colon and Rectum Cancer Collaborators. Global, Regional, and National Burden of Colon and Rectum Cancer from 1990 to 2023, with Forecasts to 2050: A Systematic Analysis for the Global Burden of Disease Study 2023. *Under review, The Lancet Oncology.* (IHME ID: 4219.)
 :::
 
 ::: {.pub}
