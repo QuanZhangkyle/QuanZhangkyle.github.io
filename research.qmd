@@ -30,7 +30,7 @@ The full list of papers and conference presentations is on the
 :::
 
 ::: {.working-paper}
-**Research Allied Health Professional — The Queen's Medical Center**, Honolulu (2025–2026). Built and audited an analytic colorectal-cancer cohort from the hospital cancer registry (2010–2024) for an IRB-approved study, and estimated disparities in early-onset diagnosis, stage, and survival with logistic and Cox models benchmarked against SEER, in collaboration with the Department of Quantitative Health Sciences, John A. Burns School of Medicine.
+**Research Allied Health Professional — The Queen's Medical Center**, Honolulu (2025–2026). Built and audited an analytic colorectal-cancer cohort from the hospital cancer registry (2010–2022) for an IRB-approved study, and estimated disparities in early-onset diagnosis, stage, and survival with logistic and Cox models benchmarked against SEER, in collaboration with the Department of Quantitative Health Sciences, John A. Burns School of Medicine.
 :::
 
 ::: {.working-paper}
@@ -53,7 +53,7 @@ populations, using panel methods and causal-inference designs.
 
 ::: {.pub-list}
 ::: {.pub}
-**Chapter 1.** Working Through Frailty: Chronic versus Acute Health Shocks and the Margins of Labor Supply. *To be presented at the Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 2026.*
+**Chapter 1.** Health Declines and Work at Older Ages: Evidence from China. *To be presented at the Southern Economic Association (SEA) 96th Annual Meeting, Houston, TX, November 2026, under its earlier title, "Working Through Frailty: Chronic versus Acute Health Shocks and the Margins of Labor Supply."*
 :::
 
 ::: {.pub}
